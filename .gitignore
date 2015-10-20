@@ -1,3 +1,7 @@
 VD2txtmap/
 .Rapp.history
 .Rproj.user
+.Rhistory
+.RData
+*.html
+*.Rproj
