@@ -54,7 +54,7 @@ grading<-function(
 	})
 }
 
-grading(breps=1,reps=13,dir='/Users/bambrose/Dropbox/2015-2016/2015-2016_A-Fall/MIDS/RDADA/07/Section 3/Submissions')
+grading(breps=5,reps=9,dir='/Users/bambrose/Dropbox/2015-2016/2015-2016_A-Fall/MIDS/RDADA/08/Submissions')
 
 if(F){
 grading(breps=1,reps=21,dir='/Users/bambrose/Dropbox/Summer 2015/SOC1Online/admin/grading/')

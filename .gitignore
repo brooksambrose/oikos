@@ -1,7 +1,9 @@
-VD2txtmap/
+VD2txtmap/Voice Dream Library
 .Rapp.history
 .Rproj.user
 .Rhistory
 .RData
 *.html
 *.Rproj
+*.pdf
+qshape/qsort*

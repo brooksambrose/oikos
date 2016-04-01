@@ -22,33 +22,19 @@ wta <- Maxent_Word_Token_Annotator()
 pa <- Parse_Annotator()
 
 
-#'@param pt parse tree
-#'@param pck parse codes to keep, default nouns
-#'@param pct parse codes to toss, default non-nouns
+#'@param ptree A single parse tree starting with value='TOP'.
+#'@param mincount Return elements with this many or more instances.
+#'@param pos Return elements whose part-of-speech tag matches this regular expression. Default is '^N' for nouns.
 #'@references http://www.martinschweinberger.de/blog/part-of-speech-tagging-with-r/
 parse.crawl<-function(
-	pt
-	,pcin=c('NN','NNS','NNP','NNPS')
-	,pcout=c('CC','CD','DT','EX','FW','IN','JJ','JJR','JJS','LS','MD','PDT','POS','PRP','PRP$','RB','RBR','RBS','RP','SYM','TO','UH','VB','VBD','VBG','VBN','VBP','VBZ','WDT','WP','WP$','WRB')
+	ptree
+	,mincount=1
+	,postag='^N'
 	){
-	pt<-cbind(unlist(pt))
-	tt<-sub('.+\\.','',rownames(pt))
-	rownames(pt)<-NULL
-	pt<-data.frame(pos=pt[which(tt=='children')-1],tok=pt[which(tt=='children')])
-	test<-pt$pos%in%pcin
-	cumsum(pt$pos%in%pcin)
-	ret<-list()
-	l<-NULL
-	for(i in 1:length(pt)) {
-		if(pt[i]%in%pcin){
-			if(is.null(l)) l<-pt[i]
-		}
-	}
-}
-
-tbl<-table(unlist(Tree_apply(ptrees[[1]],function(x){x<-try(x$value,silent=T);if(!inherits(x,'try-error')) unlist(x)},recursive=T)))
-fun<-function(x) {
-	if(is.null(names(x))) return(NULL)
+	tbl<-table(unlist(Tree_apply(ptree,function(x){x<-try(x$value,silent=T);if(!inherits(x,'try-error')) unlist(x)},recursive=T)))
+	print(tbl)
+	fun<-function(x) {
+		if(is.null(names(x))) return(NULL)
 		pos<-x$value
 		x<-unlist(x$children)
 		names(x)<-NULL
@@ -56,8 +42,14 @@ fun<-function(x) {
 		x<-paste(x,collapse=' ')
 		names(x)<-pos
 		x
+	}
+	el<-unlist(Tree_apply(ptree,fun,recursive=T))
+	el<-el[grepl(postag,names(el))]
+el<-table(el)
+el[el>=mincount]
 }
-el<-cbind(unlist(Tree_apply(ptrees[[1]],fun,recursive=T)))
+nouns<-parse.crawl(ptrees[[1]])
+
 
 require(data.table)
 t<-data.table(t)
