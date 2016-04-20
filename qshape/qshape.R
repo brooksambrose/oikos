@@ -40,7 +40,8 @@ colnames(let)<-c(tail(scale$letter,ncol(let)-1),'t')
 	list(row,let)
 }
 #debugonce(qshape.f)
-(x<-qshape.f(tn = 26,npz = 0,samps=10^5,mode='1',out='qsort-tmplt26m1.txt',label='letter'))
+setwd('qshape')
+(x<-qshape.f(tn = 26,npz = 0,samps=10^5,mode='0',out='qsort-tmplt26m0.txt',label='letter'))
 
 if(F){ # quick historgram for SPring 2015 Midterm final scores
 	g<-c(44.15,44.15,45.82,45.82,44.48,44.81,45.8,44.48,43.16,44.15,43.16,42.83,45.16,45.8,45.49,46.81,44.15,45.15,46.14,45.49,44.16,42.5,46.82,42.5,44.15,44.81)

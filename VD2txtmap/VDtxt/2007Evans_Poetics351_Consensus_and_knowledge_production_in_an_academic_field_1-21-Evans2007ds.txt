@@ -1,0 +1,927 @@
+Consensus and knowledge production in an 
+academic field 
+John H. Evans 
+Department of Sociology, University of California, San Diego, 
+9500 Gilman Dr, San Diego, CA 92093-0533, USA 
+Available online 16 February 2007 
+Abstract 
+Scholars have long been interested in the relationship between the amount of consensus in an academic 
+field and the amount of scholarly production. In this paper, I describe previous theory and research that suggest 
+four possible relationships between the amount of scholarly production and the degree of consensus. These 
+relationships are tested with data on the content of 50 sub-debates in the field of bioethics from 1973 to 1995. I 
+find support for the conclusion that increased consensus leads to increased scholarly production. I conclude by 
+discussing the implications of these findings for the humanities in general and bioethics in particular. 
+# 2007 Elsevier B.V. All rights reserved. 
+Sociologists, along with most academics, are interested in the conditions of their knowledge 
+production and study themselves extensively (Mullins, 1973; Whitley, 1984; Turner and Turner, 
+1990; Fuchs, 1992; Abbott, 2001). At least since the publication of Kuhn’s The Structure of 
+Scientific Revolutions (1970), academics have been interested in the relationship between the 
+degree of consensus in a field and the field’s ‘‘progress’’ or, more specifically, its growth in the 
+amount of knowledge produced. Kuhn’s theory – for our purposes – can be briefly and simply 
+summarized as follows: when a field achieves a paradigm (consensus on the questions to be 
+asked, the methods employed, and so on), normal science ensues, resulting in the growth of 
+knowledge production. In Kuhn’s words: ‘‘Men whose research is based on shared paradigms are 
+committed to the same rules and standards for scientific practice. That commitment and the 
+apparent consensus it produces are prerequisites for normal science, i.e., for the genesis and 
+continuation of a particular research tradition’’ (Kuhn, 1970:11). 
+Can this model of the relationship between consensus and academic production be applied to 
+the social sciences or the humanities? Randall Collins (1994, 1998) thinks not, and that the lack 
+www.elsevier.com/locate/poetic 
+Poetics 35 (2007) 1–21 
+E-mail address: jhevans@ucsd.edu. 
+0304-422X/$ – see front matter # 2007 Elsevier B.V. All rights reserved. 
+doi:10.1016/j.poetic.2007.01.001of consensus is the norm of scholarly production in the social sciences and humanities. Similarly, 
+a book by Abbott (2001), aptly titled Chaos of Disciplines has, as its primary metaphor, the 
+‘‘fractal distinction.’’ This book implies that we should not be concerned with whether the degree 
+of consensus leads to scholarly production, but rather the inverse, whether scholarly production 
+leads to more consensus or less consensus. 
+There has been very little scholarly work on this question outside of the natural sciences. In 
+this paper, I examine four possible relationships between the degree of consensus in a field and 
+the amount of scholarly production. Examining 50 sub-debates over 23 years in the 
+interdisciplinary field in the humanities called bioethics, I conclude that Kuhn’s insights can 
+indeed be applied to the humanities. 
+1. Hypotheses 
+Logically, there are four possible relationships between a change in the amount of knowledge 
+production and a change in the amount of consensus. For each I will summarize empirical 
+research and theories to suggest that it is reasonable to expect that the relationship may be 
+operating. 
+Ideally, I would only use studies of the humanities, but given that almost none of these exist 
+(Lamont, 2000), I will rely upon studies of the natural and social sciences. Given the exalted 
+place that the natural sciences have in academia, it is reasonable to think that scholars in other 
+fields will try to emulate the practices of knowledge production used in the natural sciences. I will 
+prefer studies of the social sciences, given that most scholars consider the social sciences to be 
+closer to the humanities in its academic production mechanisms than the natural sciences (Price, 
+1970; Cole, 1983; Whitley, 1984; Hargens, 2000). 
+The data in this paper are set up as a pooled cross-sectional time series matrix with 
+measures of the amount of knowledge production and consensus for 50 sub-debates over 23 
+years. A common justification for this design is that, unlike cross-sectional designs, it allows 
+for greater leverage on causal mechanisms (Hicks, 1994). That is, with time series data it can 
+be determined whether changes in the amount of discursive consensus precede in time 
+changes in the amount of production or whether changes in the amount of production precede 
+in time changes in the amount of consensus. Although there is obviously much more to 
+causality than temporal order, it is at least necessary for causality that the causal force 
+preceded the effect. 
+Before continuing, I must make some clarifications. The amount of academic publishing is my 
+proxy for the amount of scholarly production. I also assume that publishing operates in an 
+ecological space. Therefore, debates in academia cannot be studied independently of each other 
+because they are all in competition for limited resources, most notably journal space and a place 
+in the book publisher’s catalog. Therefore, if one debate is more represented in the journals then 
+another debate must decline. 
+Also, the data under examination here are what sociologists would describe as a theoretical, 
+not an empirical field. In a theoretical field, the consensus that is most important is what I will call 
+discursive consensus – an agreed upon language to describe the phenomena. If it were an 
+empirical field, discursive consensus would be followed by a second stage: having achieved 
+discursive consensus about the problem, an empirical agenda could get under way to determine 
+what could be called a substantive consensus. 
+Consider this distinction applied to debates about population growth. A theoretical debate 
+attuned to achieving discursive consensus would try to reach consensus about whether the 
+2 J.H. Evans / Poetics 35 (2007) 1–21persons in the debate should consider economic growth, female empowerment, religious beliefs 
+and/or cultural beliefs about contraceptive usage in their empirical investigations. After reaching 
+discursive consensus (a paradigm in Kuhn’s terms) empirical research could begin using the 
+discursive consensus as a guide. In the data here – ethical debates about issues in science and 
+medicine – there is essentially no empirical research, making the debate purely theoretical and 
+the consensus being pursued purely discursive. 
+For example, one text about abortion in these data argues that abortion should be considered 
+‘‘a violation of the sanctity of life’’ and ‘‘cultural genocide,’’ whereas another text argues that 
+abortion should be considered ‘‘female empowerment’’ and ‘‘a medical procedure.’’ Discursive 
+consensus in this case entails agreeing to use the same language to describe abortion. Having 
+achieved a consensus about what abortion is really about, then, in the Kuhnian version, the debate 
+would then move on to the much larger set of detailed questions and debates. 
+1.1. Hypothesis 1: More consensus leads to more knowledge production 
+To summarize the relevant parts of Kuhn’s theory for our purposes, Kuhn posits ‘‘normal 
+science’’ as a state of high consensus on what counts as knowledge, what is an important 
+question, and so on. With normal science, debates about fundamental questions can cease, and 
+the disciplined investigation of detailed questions begins: 
+When the individual scientist can take a paradigm for granted, he need no longer, in his 
+major works, attempt to build his field anew, starting from first principles and justifying the 
+use of each concept introduced. That can be left to the writer of textbooks. Given a 
+textbook, however, the creative scientist can begin his research where it leaves off and thus 
+concentrate exclusively upon the subtlest and most esoteric aspects of the natural 
+phenomena that concern his group (Kuhn, 1970:19–20). 
+With the emergence of the paradigm also comes ‘‘the formation of specialized journals, the 
+foundation of specialists’ societies, and the claim for a special place in the curriculum’’ (Kuhn, 
+1970:19). In sum, this era of normal science follows the scientific revolution (e.g., an era of low 
+consensus) where the reigning paradigm has been overthrown and eventually a new paradigm 
+takes its place. While Kuhn was not focused upon the humanities, the general insight could apply: 
+increased discursive consensus leads to increased scholarly production.1 
+Of course, this Kuhnian mechanism must, on a micro level, work through either the 
+gatekeepers of publishing (editors, reviewers), or the behavior of individual writers themselves. 
+Studies of peer review in publishing also suggest that this mechanism may indeed be operating 
+(Campanario, 1998). One prominent finding is that ‘‘when scholars do not share conceptions of 
+appropriate research problems, theoretical approaches, or research techniques, they tend to view 
+each other’s work as deficient and unworthy of publication’’ (Hargens, 1988:147). In Kuhnian 
+terms, those outside of the paradigm (the consensus) will not be published. Therefore, given the 
+ecology of publishing, subfields with low consensus may be selected against in peer review and 
+subfields with high consensus selected for in peer review. In sum, this hypothesis can be stated 
+more formally as follows (Table 1): 
+J.H. Evans / Poetics 35 (2007) 1–21 3 
+1 Collins (1994:157) calls Kuhnian normal science ‘‘high-consensus rapid-discovery science,’’ and claims that it is 
+fairly unusual in the history of the world, emerging in Europe around 1600 for the physical sciences. Collins attributes its 
+formation to the use of research technologies – technologies that are lacking outside of the physical sciences.H1. An increase in degree of consensus leads to an increase in the amount of knowledge 
+production or a decrease in the degree of consensus leads to a decrease in the amount of 
+knowledge production. 
+1.2. Hypothesis 2: More consensus leads to less production 
+The Kuhnian thesis is that the paradigm (consensus) makes the debates about fundamental 
+questions superfluous and clears the way for the detailed work of ‘‘normal science’’ within the 
+assumptions of the paradigm to commence. However, the micro-processes of journal publishing 
+may not facilitate this process. Contrary to the publishing mechanism described above, it may be 
+that gatekeepers find the less consensual debates about what the paradigm should be more 
+exciting than the normal science within an existing paradigm. 
+Some existing research suggests this is correct. Hilgartner and Bosk theorize that in debates 
+more generally, if an issue does not remain novel, ‘‘if the symbols used to frame a problem 
+become too repetitive,’’ then the problem will be decreasingly discussed because of its 
+‘‘diminished dramatic value’’ to gatekeepers: ‘‘Editors will decide that lately they have been 
+seeing too much about the problem; talk show producers will seek other guests; politicians will 
+tackle new issues; foundations will shift funding priorities; and researchers will study different 
+topics’’ (Hilgartner and Bosk, 1988:62–63). 
+Information scientists have also consistently found that academic journals are biased toward 
+‘‘novel content’’ and away from what is perceived to be ‘‘replication’’ (Campanario, 1998:203). 
+For example, when authors submitted manuscripts to the Academy of Management Journal 
+claiming that the content was novel, the articles were more likely to be accepted (Beyer et al., 
+1995). As a past editor of the American Sociological Review wrote, ‘‘the typical published 
+article’’ in ASR ‘‘makes new theoretical and empirical contributions’’ (my emphasis) (England, 
+1994:v). Therefore, it is possible that as the amount of consensus in a field increases, the amount 
+of knowledge production decreases because publishing gatekeepers cut back on publishing in 
+that area so as to make room for less-repetitive areas. 
+Similar evidence can be found in the non-journal part of academic publishing. As academic 
+book publishers are increasingly looking to nonacademic sales as support from universities 
+decreases (Powell, 1985; Parsons, 1987), they are increasingly looking for discourse that is 
+‘‘controversial’’ (Parsons, 1987:186). It seems that controversial texts, such as the ‘‘dazzling new 
+interpretation’’ described by one book editor (Parsons, 1987:186), will not be using consensual 
+discourse to examine a problem but will have to break new discursive ground. Therefore, book 
+4 J.H. Evans / Poetics 35 (2007) 1–21 
+Table 1 
+Hypotheses 
+Hypothesis 
+number 
+Formal hypothesis 
+H1 An increase in degree of consensus leads to an increase in the amount of production or a decrease 
+in the degree of consensus leads to a decrease in amount of production. 
+H2 An increase in the degree of consensus leads to a decrease in the amount of production or a 
+decrease in the degree of consensus leads to an increase in amount of production. 
+H3 An increase in the amount of production leads to a decrease in the degree of discursive consensus 
+or a decrease in the amount of production leads to an increase in the degree of consensus. 
+H4 An increase in the amount of production results in an increase in the degree of discursive 
+consensus or a decrease in the amount of production results in a decrease in the degree 
+of discursive consensus.publishers may also select against consensual sub-debates, decreasing the number of texts 
+published in the area and thus decreasing scholarly production in that area. 
+The second hypothesis is then that increased consensus in a particular debate will lead to less 
+academic production as current communicators move on to areas which ‘‘need work’’ and 
+potential communicators to not enter a debate at all: 
+H2. An increase in the degree of discursive consensus results in a decrease in the amount of 
+production or a decrease in the degree of discursive consensus leads to an increase in amount of 
+production. 
+1.3. Hypothesis 3: Increased production leads to decreased consensus 
+The primary advantage of time series data is that the analyst can assess whether a change in X 
+precedes a change in Y or a change in Y precedes a change in X. In this case, the data can shed 
+light on whether a change in the degree of consensus leads to a change in the amount of scholarly 
+production (H1 and H2) or whether a change in the amount of production leads to a change in the 
+degree of consensus. 
+Some of the discussions of the relationship between consensus and the amount of scholarly 
+production actually do reverse the causality assumed in H1 and H2 above. For example, in 
+making his case that debates in sociology evolve through ‘‘fractal’’ distinctions – a model too 
+complex to be modeled with the data used here – Abbott (2001:22–23) describes traditional 
+differentiation as another possible mechanism. If traditional differentiation is operating, with 
+increased production of new texts, subdivisions in discourse form, and those subdivisions form 
+subdivisions, resulting in an endless proliferation of discourse and therefore less consensus. 
+Abbott assumes that with fractal distinctions the same divisions keep replicating themselves at 
+each level of differentiation, suggesting that increased production may not actually result in less 
+consensus. However, each of these distinctions occurs at a more specified level, so it is also 
+possible that the discourse would not actually be the same. 
+Published histories of the bioethics debate under examination in this paper also suggest a 
+differentiation process leading to less consensus may be occurring. Thirty years ago there were 
+very few texts in the field of bioethics, and participants in the debate felt themselves to be experts 
+on many topics. Now with the great growth in the amount of academic production, the debaters 
+are specialists. They are ‘‘experts in the ethics of genetics or the ethics of health policy or the 
+ethics of the health care industry,’’ each of which may have a distinct theory; ‘‘foundationalist, 
+deconstructionist, feminist, or cultural’’ (Jonsen, 1998:406). 
+This differentiation would ultimately be mediated through publishing. The publishing bias 
+away from consensual issues and toward ‘‘novel’’ content (described above) may encourage the 
+proliferation that Abbott describes if authors feel compelled, due to increased competition, to 
+continuously distinguish themselves from their competitors. Therefore, more formally: 
+H3. An increase in the amount of scholarly production leads to a decrease in the degree of 
+discursive consensus or a decrease in the amount of scholarly production leads to an increase in 
+the degree of consensus. 
+1.4. Hypothesis 4: Increase in production leads to increased consensus 
+There is one remaining logical possibility, which also corresponds with how the scholars in 
+this study view their field. Certainly unlike almost all of the fields that make up the natural 
+J.H. Evans / Poetics 35 (2007) 1–21 5sciences, and certainly unlike most social science and humanities disciplines, the bioethics field 
+thinks of itself as an institution in the public sphere. Charles Taylor (1995) defines the public 
+sphere as ‘‘a common space in which the members of society are deemed to meet through a 
+variety of media: print, electronic, and also face-to-face encounters; to discuss matters of 
+common interest; and thus to be able to form a common mind about these’’ (185–186). The 
+institutions of the public sphere are then those locations where the ‘‘common mind’’ – consensus 
+formation – can occur, and this consensus can subsequently be presented to the state as the will of 
+the governed. The media is perhaps the preeminent institution in the public sphere, but religious 
+groups (Wuthnow, 1994), social movement organizations (Minkoff, 1997), voluntary 
+associations (DiMaggio and Anheier, 1990) as well as parts of academia can be institutions 
+where consensus is thought to form. Deliberation through publishing, in this view, leads to 
+consensus. I would expect that this mechanism could be generalized from bioethics to any policy- 
+oriented field. 
+Dominant groups in the field do think of the field as debating amongst itself to ‘‘clarify’’ 
+ethical problems for the public, so that we as a society can decide what to do about an issue like 
+stem cell research. Through scholarly communication they weed out the good ideas from the bad, 
+making for a more reasoned debate (Evans, 2002), which also then leads to a consensual debate 
+due to the weeding. For example, a government report says that bioethics commissions arise 
+‘‘from a desire for mechanisms to articulate common values and foster consensus in the face of 
+growing cultural and religious heterogeneity’’ (U.S. Congress, 1993:7). This is not only true 
+about bioethics commissions – which are the ultimate form of influence in bioethics and thus a 
+prime audience for academic writing (Evans, 2002) – but of the academic bioethics enterprise 
+more broadly. In his canonical study of the discipline of bioethics and consensus, Moreno (1995) 
+concludes that ‘‘although bioethics as an academic subject is not directly engaged in the 
+processes of achieving societal consensus, there is surely an interactive relationship between 
+bioethics in the academy and bioethics in the policy-making and clinic realms’’ (7). 
+As an example of how academic bioethical debate is thought of as a process of consensus 
+formation, consider the debate about human genetic engineering. In 1986 a committee of the 
+National Institutes of Health formally allowed the submission of research protocols for the 
+genetic engineering of human beings as long as the changes could not be passed on to 
+descendants. The chair of the committee, an academic, would later state that the regulations 
+represented ‘‘an attempt to distill 15 years of ethical discussion in published articles and books, at 
+public symposia, and in government hearings and reports in the United States and Europe’’ 
+(Walters, 1986:226). In sum, we are left with a final hypothesis that is perhaps particular to 
+academic fields that purport to influence public policy. That is: 
+H4. An increase in the amount of knowledge production results in an increase in the degree of 
+discursive consensus or a decrease in the amount of knowledge production results in a decrease in 
+the degree of discursive consensus. 
+2. Data and measures 
+To evaluate these hypotheses, I examined sub-debates in the academic field now called 
+‘‘bioethics’’ or ‘‘bio-medical ethics’’ from 1973 to 1995. The debates concern the ethics of 
+medical or scientific procedures: abortion, euthanasia, organ transplantation, and 47 other issues. 
+To approximate this debate, I examined information from 51,892 texts stored in the Bioethicsline 
+bibliographic database at the National Institutes of Medicine. 
+6 J.H. Evans / Poetics 35 (2007) 1–21The content of each of these 51,892 texts has been summarized by a team of professional 
+bibliographers as having discursive properties described by ‘‘keywords’’ (Bioethics Information 
+Retrieval Project, 1995). Keyword data have been used fairly extensively by sociologists of 
+science who call the technique ‘‘qualitative scientometrics’’ (Callon et al., 1986) or ‘‘co-word 
+analysis’’ (Law et al., 1988; Whittaker, 1989; Courtial and Law, 1989). Although unique to this 
+database, the 651 keywords that are used in this database are analogous to the subject headings 
+that can be searched in any library’s computerized catalog. Each text was assigned between 1 and 
+45 keywords by the bibliographers.2 This textual database was translated into a numeric matrix 
+where the 51,892 texts were cases and the 651 keywords were variables. A value of 1 was 
+assigned if the keyword is assigned to a text and 0 if the keyword was not assigned, and the year 
+of publication of the text was also added as a variable (see Appendix A for more details). 
+The bibliographers do not clearly demarcate keywords indicating the text discusses a sub- 
+debate from keywords that indicate some other form of discourse. Therefore, I defined a sub- 
+debate in bioethics as a text concerning a physical act (or inaction) engaged in by a human with 
+the intended result of a physical or behavioral change in another person or themselves.3 I then 
+examined the definitions used by the bibliographers for all of the keywords and found 50 
+keywords that fit my definition of a sub-debate (Bioethics Information Retrieval Project, 1995).4 
+The remaining 601 keywords describe other aspects of the texts and will be used to measure the 
+degree of consensus. (The first 100 keywords are listed in Appendix B, and the remainder are 
+available from the author or in the Bioethics Information Retrieval Project (1995).) Texts that 
+were not assigned 1 of the 50 sub-debate keywords were dropped from the analysis. 
+2.1. Measuring the amount of knowledge production 
+The amount of knowledge produced in a sub-debate in a given year is operationalized quite 
+simply as the number of texts that were assigned the keyword representing the sub-debate in that 
+year. 
+J.H. Evans / Poetics 35 (2007) 1–21 7 
+2 Mean = 14.22, S.D. = 7.57. 
+3 Bioethics is ultimately about how we should act. This definition was made to limit the number of sub-debates so as to 
+make the research logistically possible. As an example, ‘‘psychological stress’’ was not considered in the analysis, but 
+‘‘psychosurgery’’ was. ‘‘Psychosurgery’’ is defined in the database as ‘‘treatment of psychiatric disorders by the surgical 
+removal of cerebral tissue or by the interruption of pathways in the brain’’ – a sub-debate that fits my restrictive inclusion 
+strategy. ‘‘Psychological stress’’ nonetheless falls outside of my inclusion strategy because it is indicative of a state of 
+being, not an act. 
+4 I also set a threshold where the keyword representing the sub-debate had to have been coded onto at least 400 of the 
+texts in the database and have been applied to texts at least back until 1975 to ensure the statistical validity of across time 
+claims. The mean number of texts for each sub-debate is 1634 (S.D. = 1554, range = 401–8240). A common concern here 
+would be that by restricting analysis to the sub-debates coded on or before 1975, I am biasing the data away from more 
+recently emerging sub-debates that may have different dynamics. Although possible, this concern is mitigated because the 
+persons in these sub-debates were very forward looking, anticipating issues many years before they occur. For example, 
+human cloning – which is not yet possible – was one of the original keywords used in the database in 1973. Therefore, 
+there are very few sub-debates that were not anticipated in the first year. The 13 sub-debates that fit my definition (and 
+averaged at least 20 cases per year during the years they were used) but were dropped due to their late introduction are 
+Anonymous Testing (1991), Cesarean Section (1988), Child Abuse (1983), Child Birth (1979), Contact Tracing (1989), 
+Directed Donation (1990), DNA Fingerprinting (1991), Fetal Therapy (1984), Fetal Tissue Donation (1979), Home Care 
+(1990), Pre-implantation Diagnosis (1991), Quarantine (1988), and Resuscitation (1994). It is unlikely that including 
+these sub-debates would substantially change the analysis because, due to their recent introduction, they add few cases.2.2. Measuring the amount of discursive consensus 
+Measuring the degree of discursive consensus is more complicated. To measure the extent of 
+discursive consensus about a sub-debate in a particular year, I use all of the keywords, including 
+the ones that are defined as sub-debates. Consider the 651 different keywords that could be 
+assigned to a text as the components of the discursive language – as a system of symbols – for a 
+particular sub-debate, and the sum of all of the keywords assigned to texts discussing the problem 
+as the entire discourse spoken about that problem during that year. To help conceptualize this 
+move, imagine that the texts in the database were all translated into this new language and 
+published. Each text would fit in a few lines, as it would be simply a list of keywords with their 
+associated definitions. What each text was about would be a bit more difficult to discern – as the 
+651 symbols in this new language do not allow for the precision in English – but this lack of 
+precision will be consistent across sub-debates. 
+As an example, consider a 1973 text that was one ofthe first texts entered into this database by the 
+bibliographers. In addition to ‘‘abortion’’ it was coded as concerning the following symbols 
+(keywords): ‘‘fetuses,’’ ‘‘infanticide,’’ ‘‘psychological stress,’’ ‘‘religion,’’ ‘‘values,’’ and 
+‘‘children.’’ In another text coded as concerning ‘‘abortion’’ from the same year, a different 
+writer discussed abortion with the symbols ‘‘abortion on demand,’’ ‘‘autonomy,’’ ‘‘killing,’’ 
+‘‘legislation,’’ ‘‘social impact,’’ and ‘‘violence.’’ 
+This is a vague language. Keywords do not provide information about supporting or opposing 
+claims, only that they are discussed. Moreover, in the example above, ‘‘violence’’ could reference 
+the act of abortion, or the situation that lead a woman to want an abortion. Discourse about 
+‘‘violence’’ against women might be on the rise, while discourse about ‘‘violence’’ against 
+fetuses on the decline. It is critical to note that measurement is occurring at one level of 
+abstraction above these two hypothetical and more specific claims: that ‘‘violence’’ toward some 
+entity is (or is not) a claim being used in the abortion debate. There may be increasing consensus 
+in the discourse that ‘‘violence’’ of some type is implicated in the abortion debate, or there may 
+be an increasing consensus that ‘‘love’’ (another keyword) is an important part of the debate.5 
+Note, however, that this same problem exists for the majority of content analysis studies that are 
+based on the co-occurrence of themes within blocks of text (Mohr, 1998; Roberts, 2000:263). The 
+keywords coded onto the two texts examined above are then the (simplified) discourse between 
+these two authors in 1973. It is a limited language, but a language nonetheless, and to compare 
+discourse across 23 years and 50 sub-debates, a limited language is necessary. 
+The keywords are the larger, more theoretical ideas that make up the description of the sub- 
+debate. In the Kuhnian thesis, once more consensus is achieved in this discourse (when fewer 
+keywords are used), then the debate would increase in volume with the differences between the 
+texts being in smaller details that are too specific to justify separate keywords. 
+The degree of consensus about abortion in 1973 is then, for example, the extent to which the 
+264 texts that discuss abortion in that year concentrate their language use on similar symbols 
+(keywords). If 20 keywords comprise 80% of the keywords used in all of the texts in 1973, but 40 
+8 J.H. Evans / Poetics 35 (2007) 1–21 
+5 Note that my interpretation of the connection between this language and the ‘‘real’’ meaning of the text, done here for 
+expository purposes, is actually irrelevant to the analysis. Although I do need to make the case that the keywords I select 
+as representing sub-debates were indeed used by the coders as I suggest, for the remainder of the keywords the exact 
+meaning is irrelevant, as long as the coders did not change their usage of them between sub-debates. To clarify ambiguous 
+definitions in the coder’s thesaurus, I interviewed the director of the coding center.keywords comprise 80% of the keywords assigned in 1974, we would say that consensus in the 
+discourse about abortion has declined between the two years. More formally, the degree of 
+consensus in language use has been measured by linguists (Greenberg, 1956; Lieberson, 1964) as: 
+C ¼ S p2 
+i 
+where C is the consensus in keyword use and pi the proportion of the total assigned keywords in 
+that year that are for keyword i. C ranges between 0 (no consensus) and 1 (total consensus on one 
+keyword).6 
+As an example, imagine that of the 651 possible keywords, in a particular year the top five most 
+used keywords represented .3, .2, .1, .05, and .03 of the keywords assigned to the texts. With a few 
+keywords dominating the discourse, the consensus measure is .32 + .22 + .12 + .052 + .032 = .014. 
+In the next year, however, the total debate over abortion is spread across more symbols (keywords) 
+in the language – there is less consensus on how to describe the abortion ‘‘problem’’ – and the top 
+five keywords represent .05, .05, .03, .02, and .01 of the total keywords assigned (.052 + 
+.052 + .032 + .022 + .012 = .006). For clarity, this example only used the top five keywords, but in 
+my measure I used all 651 of them. The identified sub-debates are listed in Table 2, along with the 
+number of texts that refer to these problems (amount of production) and the average degree of 
+discursive consensus across the years.7 
+3. Estimation 
+The amount of knowledge produced in a sub-debate (number of texts) and the degree of 
+consensus among those texts in each of 23 years for each of 50 sub-debates were calculated from 
+the raw data, creating a pooled cross-sectional time series data set of 23(t)  50(i) = 1150 cases. 
+Economists have long been concerned with the empirical question of determining whether a 
+change in X preceded a change in Yor vice versa (e.g., whether a change in monetary policy leads 
+to a change in economic conditions or a change in economic conditions leads to a change in 
+J.H. Evans / Poetics 35 (2007) 1–21 9 
+6 This is also the Herfindahl index of concentration (Taagepera and Ray, 1977). This measure is more intuitive in its 
+application to geographic linguistic diversity. If in a given year in a neighborhood in New York, 55% of the population’s 
+primary language was English, 24% Spanish, 12% Chinese, and 3% Yiddish, with smaller languages being used by the 
+remaining residents, the concentration in language use would be: .552 + .242 + .122 + .032 
++  = .375 (with the ellipses 
+representing the little used languages). 
+Scholars have found that the Herfindahl index is sensitive to the number of components in the system, particularly 
+when the number of components is low (Taagepera and Ray, 1977:370). Since the calculation of the consensus measure 
+for each problem/year combination included a high number of components (mean = 225), it was anticipated that this 
+would not be too great of a concern. To be certain, I calculated the Ray and Singer concentration coefficient for each 
+problem year combination, which modifies the Herfindahl index to take the number of categories into account. There is a 
+.90 correlation between the Ray/Singer measure and the Herfindahl index, presumably because of the large number of 
+categories used to calculate the Herfindahl index. As one final check, I replicated the analyses of the paper using the Ray 
+and Singer measure and found no substantive differences in the results. 
+Voas, Olson and Crockett have noted that the use of the Herfindahl index in the study of religious pluralism has been 
+flawed by using some of the same data to construct the Herfindahl as an independent variable and religious participation 
+as the dependent variable (Voas et al., 2002). I do not have this problem because keywords and number of publications are 
+unrelated. 
+7 The overall mean consensus score across all sub-debates is .03 (S.D. = .01, range .018–.076). These generally low 
+values are due to the large number of symbols in the ‘‘language’’ and the fairly low degree of discursive consensus. 
+However, since we are not interested in the degree of consensus but rather in comparing consensus across sub-debates and 
+years, the absolute magnitude of this variable is not of concern.monetary policy). Their traditional method for assessing this question is called the ‘‘Granger 
+causality test’’ (Granger, 1969; Pindyck and Rubinfeld, 1991:216–219; Gujarati, 1988:542–543). 
+Keeping in mind that in this framework ‘‘causality’’ only means temporal precedence, if a change 
+in one variable precedes in time a change in another, it is said, in economics parlance, that the first 
+variable ‘‘Granger causes’’ the other. 
+While sociologists have not used this method, it is part of the methodological cannon of political 
+scientists, who also call it vector autoregression (Freeman, 1983; Freeman et al., 1989). For 
+example, political scientists have used the Granger test to examine whether the President shapes the 
+media’s agenda or the media shapes the President’s agenda (Edwards and Wood, 1999; Wood and 
+Peake, 1998); whether political-economic information is transmitted from the higher educated 
+classes to the lower classes, or from the lower classes to the higher classes (Granato and Krause, 
+2000); whether conflict leads to arms transfers or arms transfers leads to conflict (Kinsella, 1994); 
+and whether changes in international trade precede changes in bilateral cooperation, or changes in 
+bilateral cooperation precede changes in international trade (Reuveny and Kang, 1996). The one 
+article using the method in a general sociology journal was actually written by two political 
+scientists, and it examines whether foreign direct investment causes domestic investment or 
+whether domestic investment causes foreign direct investment (de Soysa and Oneal, 1999). 
+The basic logic of the test is simple. If past values of a time series Y help predict the present 
+value of X, then Y ‘‘Granger causes’’ X. As a practical matter, the test is conducted by creating a 
+10 J.H. Evans / Poetics 35 (2007) 1–21 
+Table 2 
+Degree of discursive consensus and amount of production 
+Amount of 
+production 
+Degree of 
+consensus 
+Amount of 
+production 
+Degree of 
+consensus 
+Abortion 6024 .02670 Involuntary commitment 1671 .03981 
+Active euthanasia 1904 .03056 Involuntary euthanasia 428 .02118 
+Adoption 401 .02102 Involuntary sterilization 618 .03243 
+Allowing to die 8240 .02916 Killing 1863 .02696 
+Amniocentesis 503 .02301 Mass disease screening 1617 .03557 
+Artificial insemination 1219 .02521 Non therapeutic research 1026 .03878 
+Behavior control 939 .02364 Organ donation 2152 .02386 
+Behavioral research 1177 .03132 Organ transplantation 2064 .02524 
+Contraception 1689 .02072 Ovum donation 772 .04499 
+Determining death 1753 .03488 Persistent vegetative state 1887 .04497 
+Embryo transfer 1308 .04035 Population control 661 .03111 
+Eugenics 1361 .01889 Prenatal diagnosis 2045 .02409 
+Euthanasia 1111 .02145 Prolongation of life 2806 .02955 
+Extraordinary treatment 1016 .03504 Psychosurgery 498 .02444 
+Family planning 674 .03480 Reproduction 1677 .01800 
+Fetal research 524 .07584 Reproductive technology 1975 .02199 
+Fetal tissue donation 631 .02509 Selective abortion 1907 .02130 
+Gene therapy 1110 .03604 Semen Donation 710 .04473 
+Genetic counseling 1423 .02509 Sexual sterilization 832 .02613 
+Genetic intervention 1327 .02293 Suicide 1242 .02329 
+Genetic Screening 2050 .02359 Surgery 1806 .03036 
+Heart transplantation 625 .04796 Surrogate motherhood 1211 .03301 
+Human experimentation 7427 .02568 Therapeutic abortion 788 .03680 
+Immunization 448 .02339 Therapeutic research 1282 .03515 
+In vitro fertilization 2042 .03311 Voluntary euthanasia 1231 .03838 
+Fifty sub-debates, Bioethicsline data 1973–1995. N = 51,892. Note: Definitions for these problems can be found in the 
+thesaurus of the Bioethics Retrieval Information Project (1995).model with X as the dependent variable and previous values of both X and Y as independent 
+variables (other independent variables can also be added to the model). An F-test to determine 
+the collective significance of the lagged Y values is used to determine whether they help predict 
+X. The inverse test is then conducted to determine whether X ‘‘Granger causes’’ Y. Using the 
+topic of this paper as the example, there are four possible conclusions from these two models. 
+(1) If the lagged values of the change in consensus significantly predict the change in the amount 
+of production, but the lagged values of change in the amount of production do not predict the 
+change in the amount of consensus, then the change in the amount of consensus ‘‘Granger 
+causes’’ the change in the amount of production. (This would support either hypothesis 1 or 2, 
+depending on the sign of the coefficients.) 
+(2) Inversely, if the lagged values of changes in the amount of production significantly predict the 
+change in the amount of consensus, but the lagged values of changes in consensus do not 
+predict the change in the amount of production, then the change in the amount of production 
+‘‘Granger causes’’ consensus. (Depending on the sign of the coefficients, this would support 
+either hypothesis 3 or 4.) 
+(3) If both directional tests have significant results, then a feedback mechanism or what economists 
+call a ‘‘bilateral causality’’ system is suggested. (I will not discuss this more complicated 
+phenomena further because it does not emerge as a major component of the findings.) 
+(4) If neither 1, 2, or 3 holds true, then the two variables are independent. 
+With most studies of social processes, there is no obvious conclusion to the decision about 
+how many lags to include in the model. While there are methods to derive an optimal number of 
+lags from the data itself (Sims, 1980), it is better to let our theories of the underlying mechanisms 
+determine lag length. Also, as usual, this decision implies a tradeoff: in this case, between 
+including enough lags to correctly model the underlying mechanism, but without losing too much 
+of the data (for every additional lag, 1 year from the data is lost (1/23rd of the total)). 
+Given that the underlying mechanism is academic publishing processes, a very long lag 
+structure is called for. The mechanism is this: gatekeepers note that a debate has changed in some 
+way and begin to make selections differently; followed by the perception of these changes by the 
+authors; followed by a change in their writing style; followed by a change in what is submitted to 
+the gatekeepers. Given the start-up costs of learning the scientific details and previous ethical 
+analyses of a particular sub-debate, scholars are probably resistant to change, meaning that the 
+primary mechanism of change might not be the behavior of authors already contributing to the 
+bioethics debate but rather that authors of texts on sub-debates of declining importance leaving 
+the debate and those interested in increasingly important sub-debates joining. Given that the time 
+between the writing of a text and its publication is probably at least a year or 2 itself, I will assume 
+that the minimum lag structure is at least 3 years. Given the uncertainty of this estimate, I will 
+conduct parallel analyses for lag times of 4, 5, 6, and 7 years. There is a limit to this process, 
+because of the data lost for each additional year. For example, using a 7-year lag changes the 
+years under examination from 1973–1995 to 1980–1995. To save presentation space, I will 
+present all of the coefficients for the model for a 5-year lag, because simple lag length 
+determination measures suggest that it is the optimal length,8 and provide summary results of the 
+J.H. Evans / Poetics 35 (2007) 1–21 11 
+8 Given that I am presenting models for a range of lag times selecting the mechanism for determining lag length is less 
+important. I therefore relied upon the simplest version, which is a maximization of adjusted R squared (Judge et al., 
+1988:728).F-tests for the models of the remaining lag times. Before conducting the Granger causality test, it 
+must be ascertained that the data conform to the assumptions of the method. I have done so, and I 
+report the results in Appendix C. 
+4. Results 
+The first column in Table 3 reports the model for predicting the percentage change in the 
+degree of discursive consensus from the previous period. The critical independent variables for 
+the Granger test in this case are the second set, the lagged values of the change in the amount of 
+production. (The lagged values of the dependent variable, placed in the model as independent 
+variables, are of no substantive interest.) Here we see that none of the lagged coefficients of 
+interest are significant. Their joint significance is formally tested through an F-test, reported at 
+the bottom of the column, which shows that the lagged values are also collectively not 
+significant. 
+This means that the ideal self-image of the bioethics field (H4) is not empirically 
+correct. Moreover, while an increase in the amount of production does not increase the 
+amount of consensus, this same model shows that an increase in the amount of production 
+also does not result in a decrease in the amount of consensus (H3). If the fracturing of 
+12 J.H. Evans / Poetics 35 (2007) 1–21 
+Table 3 
+Selected parameter estimates 
+Independent variables Dependent variable 
+% change in degree of 
+discursive consensus 
+% change in the 
+amount of production 
+% change in discursive consensus 
+Year t  1 .2151 (.0438)*** .5162 (.0606)*** 
+Year t  2 .0918 (.0374)* .3894 (.0651)*** 
+Year t  3 .0020 (.0352) .4208 (.0657)*** 
+Year t  4 .0382 (.0326) .3220 (.0627)*** 
+Year t  5 .0331 (.0273) .1769 (.0542)** 
+% change in production 
+Year t  1 .0182 (.0163) .1893 (.0329)*** 
+Year t  2 .0036 (.0164) .1194 (.0331)*** 
+Year t  3 .0276 (.0159) .1401 (.0320)*** 
+Year t  4 .0056 (.0143) .0528 (.0286) 
+Year t  5 .0146 (.0134) .0070 (.0270) 
+Amount of production in year t – .0025 (.0005)*** 
+Amount of consensus in year t 5.642 (1.026)*** – 
+Constant .1054 .1364 
+R2 .297 .265 
+Collective significance (F-test) for % change in: 
+Amount of production variables 1.08 – 
+Consensus variables – 19.89*** 
+‘‘Granger causality’’ models with 5-year lag time. Note: Forty-nine sub-debates (i) and 16-year (t) dummy variables are 
+included in each model but are not shown (standard errors in parentheses). 
+* p < .05 (two-tailed tests). ** p < .01 (two-tailed tests). *** p < .001 (two-tailed tests).discourse does occur as the amount of texts grow, it does not lead to a decrease in 
+consensus. This is suggested by the subtle point made by Abbott, that the fractal distinctions 
+caused by increased academic production result in identical discursive distinctions at each 
+level. 
+The second column in Table 3 shows the model predicting the percentage change in the 
+amount of production, which includes the five lagged values of changes in the amount of 
+discursive consensus. The top block of variables is of substantive interest. The individual 
+coefficients of these lagged variables suggest that change in the degree of consensus is 
+strongly predictive of changes in the amount of production. The joint significance of these 
+coefficients is confirmed with an F-test (19.89), which is also highly significant. In this case, 
+the signs of the coefficient must be examined to determine the direction of the relationship, 
+and the consistent positive coefficients across all five lags suggest that an increase in 
+consensus leads to an increase in the amount of production. Hypothesis 1 seems to be correct, 
+while hypothesis 2 is incorrect. The Kuhnian mechanism is embodied in the academic 
+publishing process, and also seems to apply not only to the natural sciences but also to the 
+humanities. Finally, Table 4 summarizes the F-statistics for models that assume alternative 
+lag lengths. We see that the different specifications of the model essentially have the same 
+substantive result. 
+5. Discussion and conclusion 
+The Kuhnian perspective on academic production is supported by these data from the 
+bioethics field. Again, this accords with more anecdotal evidence. For example, a few years 
+ago in the American Sociological Review, a dialogue between the editors and the deputy editors 
+about the gatekeeping process was published. When asked whether the review process favors 
+certain types of manuscripts, one deputy editor responded that ‘‘I have the sense that highly 
+creative and original work that falls outside conventional categories or that offers distinctly 
+unfashionable arguments may have a tougher time running the reviewer gauntlet, in part because 
+many reviewers may not know what to make of such submissions.’’ The next deputy editor in the 
+dialogue agreed, saying that ‘‘there is an inherently ‘‘conservative’’ bent in the peer review 
+process that may make it more difficult for work that departs in a significant way from established 
+paradigms to get accepted’’ (Camic and Wilson, 2001:viii). In the ecology of journal publishing, 
+this would suggest that a sub-field with a low degree of consensus will tend to have many rejected 
+papers and thus less overall production, while fields with high degrees of consensus will have 
+J.H. Evans / Poetics 35 (2007) 1–21 13 
+Table 4 
+Joint F-tests of past values of change variables 
+Lag length Amount of production ‘‘Granger causes’’ Discursive consensus ‘‘Granger causes’’ 
+Discursive consensus Amount of production 
+4 2.44* (.21) 13.44*** (.14) 
+5 1.08 (.23) 19.89*** (.19) 
+6 .82 (.22) 7.86*** (.17) 
+7 .97 (.23) 5.92*** (.15) 
+‘‘Granger causality’’ models with 4–7-year time lag specifications. Note: Models have identical specifications as those 
+reported in Table 3, except with the different numbers of lags. Adjusted R2 in parentheses. * p < .05. *** p < .001.more accepted papers and thus more production. In a period of normal science in a sub-debate, it 
+will be hard to challenge the paradigm with a non-consensual argument. 
+The findings also suggest that the humanities follow the Kuhnian cycle of a low production 
+low consensus revolution followed by a high production high consensus normal science, 
+followed by another revolution. Sociologists of science and others have long noted that the social 
+sciences and the humanities have lower consensus at any given time than the natural sciences do 
+(Cole, 1983; Whitley, 1984; Collins, 1994). At least in the case of bioethics, it appears that the 
+revolutions are even less consensual than in the natural sciences, and the periods of normal 
+science less consensual as well. However, the same expansion and contraction cycle – albeit at a 
+lower level of consensus – does seem to be occurring. 
+That Kuhn’s pattern holds in the social sciences and the humanities will be less controversial 
+than Kuhn’s original application of his ideas to the natural sciences, because before Kuhn, people 
+thought that science progressed through the linear aggregation of knowledge. The social sciences 
+and the humanities have never been committed to this as a rhetorical ideal. Moreover, Kuhn was 
+originally controversial for the implication of this theory that sociological patterns at least partially 
+accounted for the knowledge that was accepted to be ‘‘true.’’ Again, this type of naive epistemology 
+of science has never been as influential in the social sciences and humanities. Certainly in bioethics 
+no one contends that what they write is independent of human or sociological influences. 
+Let us take an example of this process from the bioethical sub-debate of human genetic 
+engineering, which has been closely examined (Evans, 2002). In the early days, there was a great 
+debate about what the goals of human genetic engineering should even be. Should the point be to 
+eradicate disease, improve the human species, serve God, maximize human freedom, or some 
+other end? This highly nonconsensual debate went on for a number of years, and eventually 
+consensus was formed – or, in Evans’ account, imposed – and the published literature on human 
+genetic engineering increased markedly. Like the Kuhnian account, this later voluminous 
+literature was a ‘‘mopping up’’ exercise (Kuhn, 1970:24), working out the details instead of the 
+big questions. These data suggest that the gatekeepers of academic publishing prefer the sub- 
+debates engaged in ‘‘mopping up’’ activity within a consensual paradigm than those sub-debates 
+that are trying to create a new paradigm. 
+To the extent these findings are generalizable to writings in the humanities, we would expect a 
+similar pattern. To consider a hypothetical example from literature, after Derridian literary 
+deconstruction become institutionalized in the U.S. (Lamont, 1987), that is, after a consensus was 
+formed in literary criticism, then deconstructive literary studies could proliferate in earnest. If the 
+findings of this paper are generalizable, it is not the case that a large amount of academic 
+publishing led to the consensus on Derrida’s method (H4), or that more production lead to less 
+consensus on the method (H3), or that the institutionalization of the method then led to a decline 
+in academic production. 
+5.1. What does this mean for bioethics as a field 
+On a more specific and pragmatic level, the self-conception of the bioethics field as an 
+institution in the public sphere where more published debate leads to consensus formation (H4) is 
+incorrect. Why does it fail at this self-appointed task? I cannot say with these data, but we can 
+speculate as to the cause. In the highly theoretical literature on the public sphere, when 
+deliberation does not lead to consensus one suspects the imposition of a nondemocratic power. 
+(Consider, for example, the Habermasian assumption that the state and market are infiltrating the 
+public sphere, using the power of these institutions to bias consensus formation.) In other 
+14 J.H. Evans / Poetics 35 (2007) 1–21research, I have shown that if one compares two academics whose texts were equally used by 
+other academics, the one who is a member of the academic elite will have more influence on the 
+future debate and the one who is not an elite will not have less influence (Evans, 2005). Therefore, 
+perhaps consensus is not formed by the amount of deliberation among all academics, but is set by 
+the elites. This suggests, at minimum, that if bioethics is an institution in the public sphere it does 
+not operate in the idealized way the Habermas and others would predict. 
+While the field of bioethics does not operate as an ideal-type institution in the public sphere, it 
+also does not display the more troubling features that other institutions in the public sphere are 
+accused of. For example, it is not the case that an increase in the amount of academic debate leads 
+to a decrease in consensus (H3). This phenomenon represents one of the greatest fears of liberal 
+theorists – that increasing debate makes resolution of societal problems less likely. Indeed, social 
+scientists have claimed that this process is operative in the abortion debate, where an increasing 
+amount of debate in the public sphere results in the polarization of citizens into two camps that 
+lack a common language between them in order to even discuss a substantive consensus (Hunter, 
+1991). Without the ability to discuss the problem, the argument continues, we may slip into a civil 
+war (Hunter, 1994). 
+It is also not the case that an increase in the degree of consensus leads to a decrease in the 
+amount of academic debate (H2). The effect of this would be that as an issue is becoming ripe for 
+substantive consensus due to the formation of discursive consensus, people stop debating it, 
+resulting in the issue not being presented as opinion to the state. The logical extension of this 
+relationship is the more commonly stated fear: issues of decreasing consensus become the most 
+debated – and are thus presented to the state as unresolvable problems. The sin quo non of this 
+fear is the abortion debate. 
+However, it is the case that an increase in consensus leads to an increase in the amount of 
+academic debate (H1). This hypothesis is not devastating for theories of the public sphere, but 
+offers an unusual twist. Instead of bioethics being a location of consensus formation, it is a 
+location where increasing consensus amplifies the debate. Thus, issues with which there is a 
+growing consensus are increasingly discussed, raising the possibility that the problem will be 
+perceived as a real problem by the state. Put positively, if this is correct, then bioethics amplifies 
+issues with which there is discursive consensus and thus the possibility of substantive consensus. 
+Only issues ready for substantive consensus are broadly debated. Put negatively, academia is 
+inherently conservative in that only issues of growing consensus are debated broadly enough to 
+get the attention of the state. 
+Acknowledgments 
+For comments on earlier drafts I would like to thank Robin Rogers-Dillon, Mark Schlesinger, 
+Mary Olson, Mike Moody, Ann Mische, Brian Steensland, Aziza Khazzoom, Steve Clayman, 
+Dan Olson, the reviewers and editors of Poetics, and audiences at ASA and the sociology 
+departments at Princeton and Rutgers. 
+Appendix A. Keyword data9 
+Since the analyses above use a data set that will be unfamiliar to readers, more detail is 
+warranted on two issues: how texts were selected to be in the database and how the keywords are 
+J.H. Evans / Poetics 35 (2007) 1–21 15 
+9 This methodological description is taken from Evans (2002:205–213).assigned to texts. Bioethicsline is a database devoted to the ‘‘literature on bioethical issues,’’ 
+explicitly considered a ‘‘cross-disciplinary field’’ whose literature appears in ‘‘widely scattered 
+sources’’ (Walters and Kahn, 1995:3). It ‘‘seeks to be comprehensive for all English-Language 
+materials... which discuss ethical aspects of the topics and subtopics’’ it searches for (Walters, 
+1975:X) including but not limited to books, chapters of books, and journal articles. In 1995 as 
+well as in 1975 (the year the bibliographers began looking for texts) the staff of the bibliography 
+had 38 indexes in their ‘‘cross-disciplinary monitoring system’’ such as the Humanities Index, 
+Library Journal, Philosopher’s Index, Sociological Abstracts, and many more (Walters and Kahn, 
+1995). 
+Texts for the database are selected in the following manner. First, the librarians directly 
+monitor 99 journals and newspapers for items that might be included. The reference tools and 
+databases are searched for possible items, and books that are purchased by the Georgetown 
+University library are also scanned for possible inclusion. Not surprisingly, as journals and 
+indexes come and go over time, their use by the Bioethicsline staff changes. The staff monitors 
+twice as many journals now than they did in the very first year (Walters, 1975), but the 
+distribution by professional interest (e.g. science, theology, etc.) remains similar except for an 
+increase in the numbers of journals now exclusively dedicated to bioethics. 
+An interview with the Senior Bibliographer of the database reveals that they have changed 
+the rules of inclusion somewhat over the years, but these changes will not bias my analyses 
+because these changes are consistent across all sub-debates. Bioethicsline has slowly but 
+steadily increased the number of items included in the database in each year. For example, 
+there are 1185 items listed in the 1974 database and 3518 listed in the 1994 database. Of these 
+texts, 71% are journal articles, 7% are books, 13% chapters from books, 5% newspaper 
+articles, and the remainder audiovisuals, court documents, unpublished declarations and the 
+like. Of the journal articles, approximately 3% are letters to the editor and 3% editorials. All 
+but the journal articles, books and chapters from books were removed from the analysis. 
+Moreover, the secular increase in the number of texts on all sub-debates is accounted for in the 
+analyses. 
+The final step in the selection process is that all possible items for inclusion are brought to the 
+Senior Biographer who uses the ‘‘rule of thumb’’ for inclusion that the item must pertain to 
+‘‘health care’’ or ‘‘biomedical research’’ and contain at least 50% of its pages discussing issues of 
+‘‘ethics or related broadly defined public policy implications.’’ This standard of inclusion has not 
+changed over the years. 
+After an item has been selected for inclusion in the Bioethicsline database by the senior 
+bibliographer, it is given to one of four professional bibliographers (who have degrees in 
+information science) who assign keywords to the item after ‘‘reading’’ it. The quotations 
+around ‘‘reading’’ point to the issue of the precision of measurement of the keywords. When 
+assigning keywords, the bibliographers actually do read the entire item if it is anything but a 
+book and then assign keywords. For books, according to the senior bibliographer, ‘‘read is too 
+strong a word.’’ They read the introduction and conclusion in the normal sense of the term and 
+then scan the rest. The bibliographers work in pairs with one checking the work of the other in 
+an informal form of inter-coder reliability. Although this is, according to the senior 
+bibliographer, much more in-depth analysis then most other bibliographic databases, it does 
+suggest a slight loss of precision that is inevitable while using this type of data. Any 
+measurement error will not be correlated with any of the other variables in the analysis 
+because this method was used equally for all items and has been used since the inception of 
+the database. 
+16 J.H. Evans / Poetics 35 (2007) 1–21Appendix B. The first 100 keywords (alphabetical order), in Bioethicsline database 
+Aborted fetuses Anonymous testing Burns 
+Abortion Artificial feeding Cadavers 
+Abortion on demand Artificial insemination Cancer 
+Accountability Artificial organs Capital punishment 
+Active euthanasia Assisted suicide Capitalism 
+Administrators Attitudes Caring 
+Adolescents Attitudes to death Carriers 
+Adoption Audiovisual aids Case studies 
+Adults Autonomy Casuistry 
+Advance directives Autopsies Central nervous system disease 
+Advertising Beginning of life Cesarean section 
+Advisory committees Behavior control Child abuse 
+Age Behavior disorders Child birth 
+Aged Behavioral genetics Children 
+Aggression Behavioral research Chorionic villi sampling 
+Aids Beneficence Christian ethics 
+Aids serodiagnosis Bioethical issues Christian scientists 
+Alcohol abuse Bioethics Chromosome abnormalities 
+Aliens Biological warfare Chronically ill 
+Allied health personnel Biology Clergy 
+Allowing to die Biomedical research Clinical ethics 
+Alternative therapies Biomedical technologies Clinical ethics Committees 
+Alternatives Blacks Cloning 
+Altruism Blood donation Codes of ethics 
+American Indians Blood specimen collection Coercion 
+Amniocentesis Blood transfusions Common good 
+Ancient history Body parts and fluids Communicable diseases 
+Anencephaly Bone marrow Communication 
+Anesthesia Brain Communism 
+Animal care committees Brain death Community services 
+Animal experimentation Brain pathology Comparative studies 
+Animal organs Breast cancer Compassion 
+Animal rights Buddhist ethics Compensation 
+Animal testing alternatives 
+Note: The remaining keywords are listed, with definitions, in the Bioethics Information Retrieval Project (1995). Some 
+keywords that may seem to fit the definition of a sub-debate were not included as such in the analysis because of either low 
+n or because they were not used throughout most of the years. 
+Appendix C. Model assumptions 
+Pooled time series data offer many challenges to proper estimation that have vexed social 
+scientists for many years (Stimson, 1985; Beck and Katz, 1995, 1996; Maddala, 1998; Maddala 
+and Kim, 1998). The most common problems are autocorrelation in the error terms, colinearity 
+and heterogeneity within the i’s. To cut through this debate, Beck and Katz (1996:30) describe 
+two general approaches to addressing the challenges to inference in these data. The first considers 
+these problems to be an ‘‘intrinsic part of the model’’ and the second considers the problems to be 
+a ‘‘nuisance.’’ 
+The ‘‘intrinsic part of the model’’ advocates argue for placing variables in the model that 
+control for the underlying error processes and then estimating the equations using OLS. 
+Researchers using the ‘‘nuisance’’ approach assume that since neither heteroskedasticity across 
+J.H. Evans / Poetics 35 (2007) 1–21 17the i’s or autocorrelation affect the parameter estimates, only the efficiency of the standard 
+errors, the proper place for correcting complicated error processes is in a generalized least 
+squares (GLS) model. GLS estimators obtain their results by first estimating the model using 
+OLS to obtain the residuals, from which are estimated parameters of the degree of 
+autocorrelation and heteroskedasticity, which are in turn used to transform the data. The model 
+is then fitted to these transformed data. While Beck and Katz argue that while in most situations 
+the GLS methods introduce more problems then they are worth, they remain common methods 
+in sociology and political science for pooled time series data. Given the lack of agreement in this 
+area, many sociologists seem to pick either the ‘‘intrinsic part of the model’’ or ‘‘nuisance’’ 
+approach based on how well the required specifications of the model fit their theoretical 
+concerns or data limitations (Huber and Stephens, 2000:331). I will follow this tradition and, 
+because of the parameterization requirements of the Granger test, like political scientists using 
+vector autoregression (Freeman et al., 1989), I will follow the ‘‘intrinsic part of the model’’ 
+approach. 
+As in most pooled time series data, the level values had strong autocorrelation in the errors and 
+the panels, considered separately, were nonstationary. The first step taken was to lessen this 
+autocorrelation by taking the first difference of the variables and then dividing the difference by 
+the previous value to obtain the percentage change from the previous period. Taking first 
+differences is not only a common method to reduce autocorrelation, but substantively I am not so 
+much interested in the raw amount of knowledge production or amount of consensus, but rather in 
+whether there has been an increase or decrease in either of them. 
+The Granger method is an extreme version of the ‘‘intrinsic part of the model’’ approach, 
+given that it requires including, in my case, between four and seven lags of the dependent 
+variable as independent variables. This models any remaining autocorrelation that would 
+exist, even at much higher orders than the AR(1) process typically assumed by most 
+researchers. Since my method has determined that I will use the ‘‘intrinsic part of the model’’ 
+approach, I continued in this approach by explicitly modeling the other challenges to 
+estimation. Heteroskedasticity in the i’s was removed through a fixed effect model, with 
+dummy variables for each i. 
+The time trend was accounted for through also fixing the years (t’s) with dummies, resulting in 
+a ‘‘fixed time and group effect’’ version of the least squares dummy variable model (Greene, 
+1997:621). Finally, the amount (not percentage change) of the consensus score in year t  1 was 
+included in the models predicting the percentage change in consensus (and the amount of 
+production in year t  1 was included in the models predicting percentage change in amount of 
+production) to correct for a common assumption in these designs that initial levels strongly 
+influence percentage changes. For example, a 50% increase in the production in a sub-debate 
+requires less social force when the amount of production is quite low (perhaps only 50 texts in a 
+debate), than a 50% increase in production when the amount of production is already quite high 
+(requiring perhaps 500 additional texts in a debate).10 The Granger models were tested for any 
+remaining auto-correlated error using the Breusch–Godfrey Lagrange multiplier test (Maddala, 
+1998:206). No significant serial correlation was found. There are also no significant colinearity 
+problems in these data. 
+18 J.H. Evans / Poetics 35 (2007) 1–21 
+10 For example, nations with low initial levels of welfare effort have much greater percent changes in percentage effort 
+(Hicks and Misra, 1993:690). The logic is that it is easier to go from 10 to 20 than from 100 to 200. While a significant 
+predictor, excluding the variable did not affect the substantive results in any of the models.References 
+Abbott, Andrew, 2001. Chaos of Disciplines. University of Chicago Press, Chicago, IL. 
+Beck, Nathaniel, Katz, Jonathan N., 1995. What to do (and not to do) with time-series cross-section data. American 
+Political Science Review 89 (3), 634–647. 
+Beck, Nathaniel, Katz, Jonathan N., 1996. Nuisance vs. substance: specifying and estimating time-series-cross-section 
+models. Political Analysis 6, 1–36. 
+Beyer, Janice M., Chanove, Roland G., Fox, William B., 1995. The review process and the fates of manuscripts submitted 
+to AMJ. Academy of Management Journal 38 (5), 1219–1260. 
+Bioethics Information Retrieval Project, 1995. Bioethics Thesaurus. Kennedy Institute of Ethics, Georgetown University, 
+Washington, DC. 
+Callon, Michel, Law, John, Rip, Arie, 1986. Mapping the Dynamics of Science and Technology: Sociology of Science in 
+the Real World. Macmillan Press, London. 
+Camic, Charles, Wilson, Franklin D., 2001. A dialogue about ASR: the editorial team talks. American Sociological 
+Review 66, v–ix. 
+Campanario, Juan Miguel, 1998. Peer review for journals as it stands today: Part 1. Science Communication 19 (3), 181– 
+211. 
+Cole, Stephen, 1983. The hierarchy of the sciences? American Journal of Sociology 89 (1), 111–139. 
+Collins, Randall, 1994. Why the social sciences won’t become high-consensus, rapid-discovery science. Sociological 
+Forum 9 (2), 155–177. 
+Collins, Randall, 1998. The Sociology of Philosophies. Harvard University Press, Cambridge, MA. 
+Courtial, Jean-Pierre, Law, John, 1989. A co-word analysis of artificial intelligence. Social Studies of Science 19, 301– 
+311. 
+de Soysa, Indra, Oneal, John R., 1999. Boon or bane? Reassessing the productivity of foreign direct investment. American 
+Sociological Review 64, 766–782. 
+DiMaggio, Paul J., Anheier, Helmut K., 1990. The sociology of nonprofit organizations and sectors. Annual Review of 
+Sociology 16, 137–159. 
+Edwards III, George C., Wood, B. Dan, 1999. Who influences whom? The President, Congress, and the media. American 
+Political Science Review 93 (2), 327–344. 
+England, Paula, 1994. Questions, answers and thanks: editor’s comment. American Sociological Review 59 (1). 
+Evans, John H., 2002. Playing God? Human genetic engineering and the rationalization of public bioethical debate. 
+University of Chicago Press, Chicago, IL. 
+Evans, John H., 2005. Stratification in knowledge production: Author prestige and the influence of an American academic 
+debate. Poetics 33, 111–133. 
+Freeman, John R., 1983. Granger causality and the times series analysis of political relationships. American Journal of 
+Political Science 27 (2), 327–358. 
+Freeman, John R., Williams, John T., Lin, Tse-min, 1989. Vector autoregression and the study of politics. American 
+Journal of Political Science 33 (4), 842–877. 
+Fuchs, Stephan, 1992. The Professional Quest for Truth: A Social Theory of Science and Knowledge. State University of 
+New York Press, Albany, NY. 
+Granato, Jim, Krause, George A., 2000. Information diffusion within the electorate: the asymmetric transmission of 
+political-economic information. Electoral Studies 19, 519–537. 
+Granger, C.W.J., 1969. Investigating causal relations by econometric models and cross-spectral methods. Econometrica 
+37 (3), 424–438. 
+Greenberg, Joseph H., 1956. The measurement of linguistic diversity. Language 32, 109–115. 
+Greene, William H., 1997. Econometric Analysis. Prentice-Hall, Upper Saddle River, NJ. 
+Gujarati, Damadoar N., 1988. Basic Econometrics. McGraw-Hill, New York, NY. 
+Hargens, Lowell L., 1988. Scholarly consensus and journal rejection rates. American Sociological Review 53, 139–151. 
+Hargens, Lowell L., 2000. Using the literature: reference networks and the structure of scholarship. American Socio- 
+logical Review 65 (6), 846–865. 
+Hicks, Alexander M., 1994. Introduction to pooling. In: Janoski, T., Hicks, A.M. (Eds.), The Comparative Political 
+Economy of the Welfare State. Cambridge University Press, New York, NY, pp. 169–188. 
+Hicks, Alexander, Misra, Joya, 1993. Political resources and the growth of welfare in affluent capitalist democracies, 
+1960–1982. American Journal of Sociology 99 (3), 668–710. 
+Hilgartner, Stephen, Bosk, Charles L., 1988. The rise and fall of social problems: a public arenas model. American Journal 
+of Sociology 94 (1), 53–78. 
+J.H. Evans / Poetics 35 (2007) 1–21 19Huber, Evelyne, Stephens, John D., 2000. Partisan governance, women’s employment, and the social democratic service 
+state. American Sociological Review 65, 323–342. 
+Hunter, James D., 1991. Culture Wars. Basic, New York. 
+Hunter, James D., 1994. Before the Shooting Begins: Searching for Democracy in America’s Culture War. Free Press, 
+New York. 
+Jonsen, Albert R., 1998. The Birth of Bioethics. Oxford University Press, New York, NY. 
+Judge, George G., Hill, R. Carter, Griffiths, William E., Lutkepohl, Helmut, Lee, Tsoung-Chao, 1988. Introduction to the 
+Theory and Practice of Econometrics. John Wiley and Sons, New York, NY. 
+Kinsella, David, 1994. Conflict in context: arms transfers and the Third World rivalries during the Cold War. American 
+Journal of Political Science 38 (3), 557–581. 
+Kuhn, Thomas S., 1970. The Structure of Scientific Revolutions. University of Chicago Press, Chicago, IL. 
+Lamont, Michele, 1987. How to become a dominant French philosopher: the case of Jacques Derrida. American Journal of 
+Sociology 93 (3), 584–622. 
+Lamont, Michele, 2000. Meaning-making in cultural sociology: broadening our agenda. Contemporary Sociology 29, 
+602–607. 
+Law, J., Bauin, S., Courtial, J.-P., Whittaker, J., 1988. Policy and the mapping of scientific change: the co-word analysis of 
+research into environmental acidification. Scientometrics 14 (3–4), 251–264. 
+Lieberson, Stanley, 1964. An extension of Greenberg’s linguistic diversity measures. Language 40, 526–531. 
+Maddala, G.S., 1998. Recent developments in dynamic econometric modeling: a personal viewpoint. Political Analysis 7, 
+59–87. 
+Maddala, G.S., Kim, In-Moo, 1998. Unit Roots, Cointegration, and Structural Change. Cambridge University Press, New 
+York, NY. 
+Minkoff, Debra C., 1997. Producing social capital: national social movements and civil society. American Behavioral 
+Scientist 40 (5), 606–619. 
+Mohr, John, 1998. Measuring meaning structures. Annual Review of Sociology 24, 345–370. 
+Moreno, Jonathan D., 1995. Deciding Together: Bioethics and Moral Consensus. Oxford University Press, New York. 
+Mullins, Nicholas C., 1973. Theories and Theory Groups in Contemporary American Sociology. Harper and Row, New 
+York, NY. 
+Parsons, Paul, 1987. Getting Published: The Acquisition Process at University Presses. University of Tennessee Press, 
+Knoxville, TN. 
+Pindyck, Robert S., Rubinfeld, Daniel L., 1991. Econometric Models and Economic Forecasts. McGraw-Hill, New York, 
+NY. 
+Powell, Walter, 1985. Getting into Print: The Decision Making Process in Scholarly Publishing. University of Chicago 
+Press, Chicago, IL. 
+Price, Derek, de Solla, J., 1970. Citation measures of hard science, soft science, technology and nonscience. In: Nelson, 
+C.E., Pollock, D.K. (Eds.), Communication Among Scientists and Engineers. Heath Lexington Books, Lexington, 
+MA, pp. 3–22. 
+Reuveny, Reuveny, Kang, Heejoon, 1996. International trade, political conflict/cooperation, and Granger causality. 
+American Journal of Political Science 40 (3), 943–970. 
+Roberts, Carl W., 2000. A conceptual framework for quantitative text analysis. Quality and Quantity 34, 259–274. 
+Sims, Christopher A., 1980. Macroeconomics and reality. Econometrica 48 (1), 1–48. 
+Stimson, James A., 1985. Regression in time and space: a statistical essay. American Journal of Political Science 29 (4), 
+914–947. 
+Taagepera, Rein, Ray, James Lee, 1977. A generalized index of concentration. Sociological Methods and Research 5 (3), 
+367–386. 
+Taylor, Charles, 1995. Liberal politics and the public sphere. In: Etzioni, A. (Ed.), The New Communitarian Thinking. 
+University Press of Virginia, Charlottesville, VA, pp. 183–217. 
+Turner, Stephen, Turner, Jonathan, 1990. The Impossible Science: An Institutional Analysis of American Sociology. Sage 
+Publications, Newbury Park, CA. 
+U.S. Congress, Office of Technology Assessment. 1993. Biomedical Ethics in U.S. Public Policy-Background Paper. 
+GPO, Washington, DC. 
+Voas, David, Olson, Daniel V.A., Crockett, Alasdair, 2002. Religious pluralism and participation: why previous research 
+is wrong. American Sociological Review 67 (2), 212–230. 
+Walters, LeRoy, 1975. Bibliography of Bioethics. Gale Research Company, Detroit, MI. 
+Walters, LeRoy, 1986. The ethics of human gene therapy. Nature 320, 225–227. 
+Walters, LeRoy, Kahn, Tamar Joy, 1995. Bibliography of Bioethics. Gale Research Company, Detroit, MI. 
+20 J.H. Evans / Poetics 35 (2007) 1–21Whitley, Richard, 1984. The Intellectual and Social Organization of the Sciences. Oxford University Press, New York, 
+NY. 
+Whittaker, John, 1989. Creativity and conformity in science: titles, keywords and co-word analysis. Social Studies of 
+Science 19, 473–496. 
+Wood, B.Dan, Peake, Jeffrey S., 1998. The dynamics of foreign policy agenda setting. American Political Science Review 
+92 (1), 173–184. 
+Wuthnow, Robert, 1994. Producing the Sacred: An Essay on Public Religion. University of Illinois Press, Urbana, IL. 
+John H. Evans is an Associate Professor of sociology at the University of California, San Diego. He is the author of 
+Playing God? Human Genetic Engineering and the Rationalization of Public Bioethical Debate (2002, University of 
+Chicago Press) and coeditor (with Robert Wuthnow) of The Quiet Hand of God: Faith-Based Activism and the Public Role 
+of Mainline Protestantism (2002, University of California Press). He has also published a number of articles on opinion 
+polarization in the U.S. over abortion, homosexuality and related issues. His research focuses on the sociology of religion, 
+culture, knowledge, science and, in particular, bioethics. 
+J.H. Evans / Poetics 35 (2007) 1–21 21

@@ -1,0 +1,1229 @@
+
+CULTURE AND COGNITION  
+Paul DiMaggio  
+Department of Sociology, 2-N-2 Green Hall, Princeton University, Princeton,  
+New Jersey 08544; e-mail: dimaggio@phoenix.princeton.edu  
+KEY WORDS: sociology of culture, social classification, social cognition, schemata  
+ABSTRACT  
+Recent work in cognitive psychology and social cognition bears heavily on con- 
+cerns of sociologists of culture. Cognitive research confirms views of culture as  
+fragmented; clarifies the roles of institutions and agency; and illuminates supra- 
+individual aspects of culture. Individuals experience culture as disparate bits of  
+information and as schematic structures that organize that information. Culture  
+carried by institutions, networks, and social movements diffuses, activates, and  
+selects among available schemata. Implications for the study of identity, collective  
+memory, social classification, and logics of action are developed.  
+INTRODUCTION  
+The study of culture in everyday life remains a virtuoso affair. Interpretive  
+studies offer great insight but fail to build on one another. Cultural theory has  
+become highly sophisticated but not fully operational. These riches ready the  
+field for takeoff, like the study of social stratification in Sorokin's day (1957  
+[1927]). But before the study of lived culture can become a cumulative enter- 
+prise, scholars must clarify the cognitive presuppositions behind their theories  
+of what culture does and what people do with it, and the fundamental concepts  
+and units of analysis (Jepperson & Swidler 1994, Wuthnow 1987).  
+Recent work in cognitive psychology and social cognition provides resources  
+for both tasks. After describing recent convergence between cultural sociol- 
+ogy and psychology, this chapter considers lessons of recent work on cognition  
+for presuppositions about the nature of culture; develops implications of these  
+lessons for sociological work on identity, collective memory, social classifi- 
+cation, logics of action, and framing; and points to key problems that remain  
+unsolved. 
+
+Rather than offer an exhaustive review of cognitive sociology per se (see  
+Zerubavel 1997) or work in psychology relevant to culture (see D' Andrade  
+1995), I emphasize tensions and affinities between recent cognitive research  
+and work in the sociology of culture with the aim of bringing the former into the  
+service of the latter. I focus on how people use culture, rather than the production  
+of culture, ideology, or culture embedded in the physical environment. The  
+point is not to psychologize the study of culture, but to lay a foundation for a  
+view of culture as working through the interaction of shared cognitive structures  
+and supra-individual cultural phenomena (material culture, media messages, or  
+conversation, for example) that activate those structures to varying degrees.  
+SOCIOLOGY AND PSYCHOLOGY: POINTS  
+OF CONVERGENCE  
+A handful of sociologists have appreciated the potential of cognitive science  
+to inform sociological work on culture (Carley 1989, Cicourel1973, Schwartz  
+1981, White 1992), and some social constructionists have anticipated impor- 
+tant results of cognitive research (Berger & Luckman 1967, Garfinkel 1987  
+[1967], Zerubavel 1991). For the most part, however, sociologists of culture  
+have ignored relevant work by cognitive psychologists, social psychologists,  
+and public-opinion researchers. This omission reflects a mismatch between  
+the modal intellectual styles of humanistic, interpretively oriented cultural so- 
+ciologists and experimentally oriented positivistic psychologists, as well as the  
+disappointing legacy of Parsons' efforts at disciplinary fusion, which psychol- 
+ogized culture, reducing it to shared values, norms, and attitudes.  
+Sociology: More Complex Views of Culture  
+In recent years, however, common ground between sociology of culture and  
+psychology has grown. The major development within sociology has been  
+a shift to a more complex understanding of culture. Thirty years ago, most  
+sociologists viewed culture as a "seamless web" (Swidler 1997), unitary and  
+internally coherent across groups and situations. In effect, culture was por- 
+trayed as a latent variable influencing in common such manifestations as media  
+images, responses to attitude questionnaires, and the values embodied in ev- 
+eryday practices. Individuals were presumed to acquire culture in the course of  
+socialization and, in the popular oversocialized view (Wrong 1961), to enact it  
+unproblematically. It followed from this perspective that there was little reason  
+to worry about constructs used to study culture, for any kind of "cultural stuff"  
+could serve as an indicator of the underlying latent variable.  
+By contrast, recent work depicts culture as fragmented across groups and  
+inconsistent across its manifestations (Martin 1992). The view of culture as 
+values that suffuse other aspects of belief, intention, and collective life has  
+succumbed to one of culture as complex rule-like structures that constitute  
+resources that can be put to strategic use (Bourdieu 1990, Sewell1992, Swidler  
+1986).  
+This shift makes studying culture much more complicated. Once we ac- 
+knowledge that culture is inconsistent-that people's norms may deviate from  
+what the media represent as normal, or that our preconscious images and dis- 
+cursive accounts of a phenomenon may differ-it becomes crucial to identify  
+units of cultural analysis and to focus attention upon the relations among them.  
+In effect, our measures stop being indicators of a latent variable (culture), and  
+their relationship to culture becomes analogous to that of education, income,  
+and place of residence to social stratification: separate phenomena, analytically  
+related to a common theoretical construct, the relations among them a matter for  
+empirical investigation (D' Andrade 1995 notes similar trends in anthropology).  
+Similarly, once we acknowledge that people behave as if they use culture  
+strategically, it follows that the cultures into which people are socialized leave  
+much opportunity for choice and variation. Thus our attention turns to ways in  
+which differing cultural frames or understandings may be situationally cued.  
+Addressing such issues requires more elaborate and contestable psychological  
+presuppositions than did the culture-as-latent-variable view.  
+Psychology: More Complex Views of Cognition  
+Such questions make it sensible for sociologists of culture to turn to psychology  
+for insight into the mechanisms through which shared culture enters into cog- 
+nition. Yet nothing guarantees that psychologists, who have their own research  
+agendas, can help us. Thirty years ago, behaviorism made psychology essen- 
+tially irrelevant to the study of culture. Twenty years ago, psychologists casting  
+off the yoke of behaviorism focused primarily on the acquisition of skills and  
+capacities of little interest to most sociologists of culture. Even a dozen years  
+ago, the implications for cultural sociology of many of the ideas and research  
+traditions that are most useful today were still unclear.  
+What has happened to make psychology useful to sociologists of culture?  
+First, psychologists have rejected behaviorism, accepted and demonstrated the  
+existence of mental structures used to perceive, process, and retrieve informa- 
+tion, and found ways to make inferences about such structures. Second, just  
+as sociological research has demonstrated culture's complexity and fragmenta- 
+tion, psychological research has demonstrated the complexity of memory and  
+provided glimpses of the partitioning of mental structures by domain. Third,  
+recent foci of psychological research (schemata, categories, mental models,  
+and so on) are much richer in cultural content than the formal operations or in- 
+tellectual capacities that once preoccupied cognitivists and developmentalists 
+(Rogoff & Chavajay 1995). Fourth, some psychologists have taken notice of  
+such sociological topics as cross-cultural differences in cognition (Shweder &  
+Bourne 1991, Markus & Kitayama 1991), elite/popular interaction in cultural  
+change (Moscovici 1984), and "distributed cognition" (i.e. the social division  
+of cognitive labor) (Resnick et al1991, Salomon 1993).  
+In addition to expanding the grounds of shared interest between the two dis- 
+ciplines, such developments have also softened two important epistemological  
+differences. Whereas most sociologists of culture have been steadfastly an- 
+tireductionist, resisting efforts to portray culture as the aggregate of individual  
+subjectivities, psychology has focused upon the individual. Increasingly, how- 
+ever, as I shall argue, psychological research bolsters and clarifies the view of  
+culture as supra-individual, and even addresses supra-individual aspects of cog- 
+nition directly [as in work on pluralistic ignorance (Miller & Prentice 1994)].  
+Second, some sociologists of culture rejected the subjectivist focus of psy- 
+chological research, calling instead for research on external aspects of culture  
+amenable to direct measurement (Wuthnow 1987). In recent years, cognitivists  
+have developed ingenious empirical techniques (reviewed in D' Andrade 1995)  
+that permit strong inferences about mental structures, going far toward closing  
+the observability gap between external and subjective aspects of culture.  
+Of course, the fit between the disciplines must not be exaggerated. Most  
+of what psychologists do is irrelevant to sociologists of culture, and much  
+of the culture sociologists' study is supra-individual. Common ground has in- 
+creased but will remain limited by the different subject matters of the disciplines  
+(Zerubavel 1997), which will remain complements rather than substitutes.  
+COGNITIVE PRESUPPOSITIONS  
+OF CULTURAL SOCIOLOGY  
+Sociologists who write about the ways that culture enters into everyday life  
+necessarily make assumptions about cognitive processes. If we assume that a  
+shared symbol evokes a sense of common identity (Warner 1959), that a certain  
+frame provokes people to think about a social issue in a new way (Gamson  
+1992), that lessons about the structure of space and time learned in school are  
+generalized to the workplace (Willis 1977), or that surveys can measure class  
+consciousness (see Fantasia's critique 1995), we are then making powerful cog- 
+nitive assumptions. Such assumptions, while metatheoretical to sociologists,  
+are keenly empirical from the standpoint of cognitive psychology. It is cru- 
+cial, then, to evaluate our assumptions (or adjudicate differences among them)  
+by microtranslating presuppositions (Collins 1981) to the cognitive level and  
+assessing their consistency with results of empirical research on cognition. 
+Coherence vs Fragmentation  
+Many sociologists have come to reject the latent-variable view of culture as  
+coherent, integrated, and ambiguous in favor of representations of culture as a  
+"toolkit" (Swidler 1986) or "repertoire" (Tilly 1992): a collection of stuff that  
+is heterogeneous in content and function. Yet much empirical work on culture  
+still presumes that culture is organized around national societies or cohesive  
+subnational groupings, is highly thematized, and is manifested in similar ways  
+across many domains (Hofstede 1980, Bourdieu 1984).  
+Is culture a latent variable-a tight network of a few abstract central themes  
+and their more concrete entailments, all instantiated to various degrees in a  
+range of symbols, rituals, and practices? If so, then we would expect to find  
+that group members share a limited number of consistent elements-beliefs,  
+attitudes, typifications, strategies-and that the inclusion of any one element in  
+the collective culture implies the exclusion of inconsistent elements.  
+Or is culture a grab-bag of odds and ends: a pastiche of mediated repre- 
+sentations, a repertoire of techniques, or a toolkit of strategies? If so, then  
+we might expect less clustering of cultural elements within social groups, less  
+strong linkages among the elements, and weaker pressures for the exclusion of  
+inconsistent elements.  
+Research in cognitive psychology strongly supports the toolkit over the latent- 
+variable view and suggests that the typical toolkit is very large indeed. Partic- 
+ularly relevant here is research (summarized by Gilbert 1991) on how people  
+attribute accuracy or plausibility to statements of fact and opinion. Consistent  
+with Swidler's (1986) contention that "all people know more culture than they  
+use," Gilbert reports that "The acceptance of an idea is a part of the automatic  
+comprehension of that idea, and the rejection of the idea occurs subsequent to  
+and more effortfully than its acceptance." In other words, our heads are full of  
+images, opinions, and information, untagged as to truth value, to which we are  
+inclined to attribute accuracy and plausibility.  
+Research on memory tells a similar story, revealing that information (includ- 
+ing false information) passes into memory without being "tagged" as to source  
+or credibility, and that active inference is required to identify the source of the  
+information when it is recalled. Such inferences may be incorrect, yielding  
+misattributions of source and credibility (Johnson et al1991).  
+This work has several important implications for students of culture. First,  
+it refutes the notion that people acquire a culture by imbibing it (and no other)  
+through socialization. Instead, it directs the search for sources of stability and  
+consistency in our beliefs and representations, first, to schematic organization,  
+which makes some ideas or images more accessible than others; and, second,  
+to cues embedded in the physical and social environment. 
+Second, learning that people retain (and store with a default value of "cor- 
+rect'') almost every image or idea with which they have come into contact,  
+renders intelligible otherwise anomalous research findings about inconsistency  
+in expressions of attitudes across time, cultural volatility in periods of rapid  
+change (e.g. the fall of the Soviet system), and the susceptibility of attitudes to  
+framing effects (Sniderman & Piazza 1993).  
+Third, the research explains the capacity of individuals to participate in multi- 
+ple cultural traditions, even when those traditions contain inconsistent elements.  
+Fourth, it establishes the capacity of people to maintain distinctive and incon- 
+sistent action frames, which can be invoked in response to particular contextual  
+cues. Fifth, this work raises the possibility that socialization may be less ex- 
+perientially based, and more dependent upon media images and hearsay, than  
+many of our theories (for example, Bourdieu's habitus [1990] construct) imply.  
+Such inferences as these go beyond the scope of cognitive studies, to be sure,  
+and much rides on the precise ways in which schematic organization imposes  
+order upon stored knowledge and memory. Nonetheless, recent cognitive re- 
+search strongly reinforces the "toolkit" as opposed to the "latent-variable" view  
+of culture and, at the very least, places the burden of proof on those who de- 
+pict culture as strongly constraining behavior or who would argue that people  
+experience culture as highly integrated, that cultural meanings are strongly the- 
+matized, that culture is binding, and that cultural information acquired through  
+experience is more powerful than that acquired through other means.  
+Institution and Agency  
+Cognitive research can also enhance our appreciation of the view that culture  
+both constrains and enables (Sewell1992). Although this position has become  
+virtually catechismic among sociologists of culture, we know little about the  
+conditions under which one or the other is the case. Many sociologists believe,  
+following Gramsci (1990), that culture, embedded in language and everyday  
+practices, constrains people's capacity to imagine alternatives to existing ar- 
+rangements. At the same time, we know that people act as if they use cultural  
+elements strategically to pursue valued ends (Bourdieu 1990). Cognitive re- 
+search cannot answer the essentially sociological question of when culture does  
+each, but it can provide direction to the search.  
+The finding that culture is stored in memory as an indiscriminately assembled  
+and relatively unorganized collection of odds and ends imposes a far stronger  
+organizing burden on actors than did the earlier oversocialized view. The ques- 
+tion, then, is how the actor organizes the information that she or he possesses.  
+Psychological research points to two quite different mechanisms or modes of  
+cognition
+
+AUTOMATIC COGNITION The first, and most important, which I refer to as au- 
+tomatic cognition is "implicit, unverbalized, rapid, and automatic" (D' Andrade  
+1995). This routine, everyday cognition relies heavily and uncritically upon  
+culturally available schemata-knowledge structures that represent objects or  
+events and provide default assumptions about their characteristics, relation- 
+ships, and entailments under conditions of incomplete information.  
+Psychological research on schemata is central to the interests of sociologists  
+both methodologically (due to advances in techniques that reveal taken-for- 
+granted assumptions to which subjects may not have easy verbal access) and  
+substantively, for what it tells us about how culture works. Indeed, for some  
+purposes, it may be useful to treat the schema as a basic unit of analysis for  
+the study of culture, and to focus on social patterns of schema acquisition,  
+diffusion, and modification (Carley 1991 makes a related argument).  
+Schemata are both representations of knowledge and information-processing  
+mechanisms. As representations, they entail images of objects and the relations  
+among them. Psychologists use the term broadly [some would suggest too  
+broadly (Fiske & Linville 1980)]. It can refer to simple, highly abstract con- 
+cepts [for example, container (D' Andrade 1995)]; to concrete activities (buying  
+chewing gum), or to complex social phenomena (group stereotypes or social  
+roles). Event schemata or scripts (Abelson 1981, Garfinkel 1987) constitute  
+an important class of schemata. Special attention has also been given to self  
+schemata (Milburn 1987, Markus & Kitayama 1994, Markus et al1997), cultur- 
+ally variable representations of the self that provide stability both to individual  
+behavior across time and to social interactions within the group.  
+Schemata are also mechanisms that simplify cognition. Highly schematic  
+cognition is the realm of institutionalized culture, of typification, of the habitus,  
+of the cognitive shortcuts that promote efficiency at the expense of synoptic  
+accuracy (Berger & Luckman 1967, Bourdieu 1990, Kahneman et al 1982).  
+Much cognitive research demonstrates that "schematic material dominates other  
+material in accurate recall, in intruded recall, in recognition confidence, in recall  
+clustering and in resistance to disconfirmation. . . . Schemata also facilitate  
+inaccurate recall when the information is schema consistent" (Fiske & Linville  
+1980: 545). In schematic cognition we find the mechanisms by which culture  
+shapes and biases thought.  
+People are more likely to perceive information that is germane to existing  
+schemata Von Hippe! et al (1993) report that experimental subjects are more  
+likely to perceive correctly terms that are schematically relevant than those that  
+are not. Information embedded in existing schemata and information that is  
+schema-dissonant are both more likely to be noticed than information orthogo- 
+nal to existing structures (Schneider 1991). Such laboratory findings resonate 
+with results in historical sociology and cultural studies: for example, the grad- 
+ual and halting acceptance of information about the New World by early modern  
+mapmakers (Zerubavel1992); the ways in which archaic physical models con- 
+strained medical scientists' interpretation of new evidence about syphilis (Fleck  
+1979); and the penchant of male biologists for seeing dominance hierarchies  
+when they watch apes and elephant seals (Haraway 1991).  
+People recall schematically embedded information more quickly Most psy- 
+chological evidence is based on laboratory experiments, which reveal that sub- 
+jects remember longer lists of words, or interpret ambiguous stimuli more accu- 
+rately, and retrieve information about a story they have heard more effectively  
+if it is relevant to preexisting mental structures that render the information inter- 
+pretable (Sedikides & Skowronski 1991). But again, there are intriguing socio- 
+logical parallels in studies that report cross-cultural differences in descriptions  
+of the content of the same novel (Griswold 1987), television program (Liebes  
+& Katz 1990), or movie (Shively 1992) that reflect collective preoccupations  
+("chronically activated mental structures" in psychological parlance).  
+People recall schematically embedded information more accurately When  
+Freeman et al (1987) asked members of a faculty workshop to listthe people who  
+had attended the previous meeting, they found that long-term attenders correctly  
+recalled participants who regularly attended, but forgot the infrequent atten- 
+ders. Using a very different method (analysis of Watergate transcripts), Neisser  
+(1981) reported that Nixon aide John Dean remembered schema-consistent  
+events more accurately than events that were schema-inconsistent.  
+People may falsely recall schematically embedded events that did not occur  
+Freeman et al's (1987) informants remembered regular attenders as present at  
+the meeting in question even when they hadn't been there. When subjects are  
+told to code small-group interactions and then given questionnaires about char- 
+acteristics of group members shortly thereafter, the post-hoc evaluations yield  
+much higher correlations of schematically related behaviors (e.g. criticizing  
+or expressing hostility) than do the real-time codings (Shweder 1982). Similar  
+confusion of schematic representations for real events may be observed in at  
+least some reports of satanic child abuse (Hacking 1995) and in some of former  
+President Reagan's speeches.  
+The parallel with sociological accounts of institutions is striking. TYpifi- 
+cations (mental structures) influence perception, interpretation, planning, and  
+action (Berger & Luckman 1967, DiMaggio & Powell1991). Institutionalized  
+structures and behaviors (i.e. those that are both highly schematic and widely  
+shared) are taken for granted, reproduced in everyday action [Giddens' "struc- 
+turation" (1984)] and treated as legitimate (Meyer & Rowan 1977). Indeed, an 
+eminent psychologist (Bruner 1990:58) has written explicitly of the "schema- 
+tizing power of institutions." Thus the psychology of mental structures provides  
+a microfoundation to the sociology of institutions.  
+Research on social cognition enhances our understanding of how culture con- 
+strains but does not support theories that depict culture as overwhelmingly con- 
+straining. Instead, consistent with contemporary sociological theorizing, work  
+in psychology provides microfoundational evidence for the efficacy of agency.  
+DELIBERATIVE COGNITION In contrast to automatic thought, psychologists  
+note a quite different form of cognition, which is "explicit, verbalized, slow,  
+and deliberate" (D' Andrade 1995). When sufficiently motivated, people can  
+override programmed modes of thought to think critically and reflexively.  
+Such overrides are necessarily rare because deliberation is so inefficient in  
+its rejection of the shortcuts that automatic cognition offers. Consequently, the  
+key question is why people are ever deliberative. Psychologists have identified  
+three facilitating conditions in studies that intriguingly parallel work in the  
+sociology of culture.  
+Attention Psychological research suggests that people shift into deliberative  
+modes of thought relatively easily when their attention is attracted to a problem.  
+For example, experimenters can create false recollections of a videotape or story  
+among laboratory "witnesses" by presenting inaccurate information or asking  
+leading questions (Loftus et al 1989). But when the task is changed to ask  
+subjects to think carefully about the source of particular bits of information,  
+the experimental effect is diminished or eliminated (Johnson et al 1993). In  
+experimental studies of attitude-behavior consistency, merely increasing self- 
+awareness by placing a mirror in the face of the subject as he or she completes an  
+attitude questionnaire significantly increases the attitude-behavior correlation  
+(Abelson 1981 :722). Such results parallel the insights of students of social  
+movements, who have studied agenda-building and who have also noted the  
+effectiveness as an organizing device of reframing issues in ways that call  
+attention to problems salient to movement participants (Snow & Benford 1992).  
+Motivation People may also shift from automatic to deliberative cognition  
+when they are strongly motivated to do so by dissatisfaction with the status  
+quo or by the moral salience of a particular issue. For example, although  
+racist schemata are accessible to most white Americans, whites can override  
+such schemata to some extent through awareness and reflexivity (Devine 1989).  
+Marx's theory of class consciousness-which contends that physically prox- 
+imate workers facing immiseration will overcome false beliefs through inter- 
+action and reflection-is a classic sociological counterpart (and see Bourdieu  
+1974). 
+when existing schemata fail to account adequately for new stimuli. Research  
+on the psychology of intergroup relations suggests that people in task groups  
+initially code others on the basis of stereotypes but shift to more deliberate evalu- 
+ations when faced with very strong inconsistent evidence (Schneider 1991 :536,  
+Berger et a! 1980). Moscovici, whose Durkheimian social psychology dif- 
+fers in many respects from other psychological accounts of mental structures  
+(Farr & Moscovici 1984, Augoustinos & Innes 1990), argues that collectivities  
+confronted with disjunctive social change construct new social representations  
+(often anchored in analogies to pre-existing schemata, and often constructed  
+deliberatively by experts in the social sciences and mass media) in order to inter- 
+pret new stimuli. Such arguments are paralleled in Garfinkel's (1967) breaching  
+experiments, which forcibly and painfully overrode automatic processing, and  
+in Swidler's contention that ideologies and other consistent cultural forms are  
+more influential during unsettled times (1986, Jepperson & Swidler 1994 on  
+constitutive vs. strategic culture).  
+Psychologists may note that I have paid scant attention to active debates  
+about the nature of mental structures and have drawn too sharp a contrast  
+between automatic and deliberative processing. Research on culture, however,  
+can already benefit from what research on cognition has resolved. The notion  
+of schema is a fair approximation of phenomena identifiable in fuzzy outline,  
+if not sharp relief, by experimental methods; research on schemata advances  
+sociological understandings of culture, especially institutions; and research on  
+automatic vs deliberative processing may help sociologists determine what to  
+do with the widely believed but theoretically inert notion that both institution  
+and agency are central to social life.  
+Culture as Supra-Individual  
+It is no news to sociologists that culture exists, sui generis, at the collective level.  
+(The position taken here-that culture is also manifest in people's heads-is  
+probably more controversial.) Nonetheless, psychological research can help us  
+appreciate several aspects of culture's supra-individual character that sociolo- 
+gists of culture sometimes neglect.  
+PLURALISTIC IGNORANCE A lively branch of social-psychological research  
+derives from Robert K. Merton's notion of ''pluralistic ignorance" (1957): the  
+idea that people act with reference to shared representations of collective opin- 
+ion that are empirically inaccurate. Such research directs us to distinguish  
+between two senses in which culture is supra-individual: as an aggregate of  
+individuals' beliefs or representations, or as shared representations of individu- 
+als' beliefs. Substantial evidence indicates that the latter deviates substantially CULTURE AND COGNITION 273  
+from the former with significant behavioral consequences and that this process  
+represents a basis for the relative autonomy of social norms (Miller & Prentice  
+1996, Noelle-Neumann 1993).  
+INTERGROUP CONTRAST AND POLARIZATION The existence of group-level  
+cultures (shared understanding partly independent of individual beliefs) is also  
+suggested by the tendency of groups to adopt public positions more extreme  
+than the preferences of their members, especially when acting with reference  
+to a contrasting group. What is striking is not polarization per se, but the cul- 
+tural availability of polarized stances (representations of collective opinion) on  
+which members of each group can converge (Tajfel1981).  
+SCHEMATA AS CULTURE Not all schemata are cultural to the same degree.  
+Some schemata reflect universal cognitive processes (for example, basic object  
+categorization), whereas others may be quite idiosyncratic. Many schemata,  
+however, and the schemata of greatest interest to sociologists of culture, en- 
+act widely held scripts that appear independent of individual experience. For  
+example, the research, cited above, that found coherence in ratings of small  
+group behavior emerging only after the fact, led the author (Shweder 1982) to  
+speculate that much of what passes as clinical research on personality is really  
+about cultural constructions of personhood (and see Meyer 1986).  
+COHERENT CULTURES AS EXTERNAL TO PERSONS Despite this chapter's fo- 
+cus on subjective representations of culture, we must not forget that relatively  
+coherent cultural forms exist independently of persons in the broader environ- 
+ment. Indeed, one of the more notable characteristics of modern societies is  
+the existence of a cultural division of labor in which intellectual producers in- 
+tentionally create and diffuse myths, images, and idea systems (Douglas 1986,  
+Farr & Moscovici 1984, Swidler 1997). Other relatively coherent representa- 
+tions exist less formally as narratives or stories repeatedly invoked in public  
+discourse (Dobbin 1994, White 1992).  
+AN INITIAL SYNTHESIS Some would argue that whatever coherence exists  
+flows from such externally available sources, i.e. that cultural coherence is  
+entirely external to the person. As we have seen, however, such a position  
+pushes the healthy shift from the latent-variable to the toolkit one step too far.  
+Instead, the research reviewed here suggests that culture works through the in- 
+teraction of three forms. First, we have information, distributed across persons  
+(Carley 1991). Such distribution is patterned, but not highly differentiating,  
+due to the in discriminant manner in which bits of culture are accumulated and  
+stored in memory (Gilbert 1991). Second, we have mental structures, espe- 
+cially schematic representations of complex social phenomena, which shape 
+the way we attend to, interpret, remember, and respond emotionally to the in- 
+formation we encounter and possess. Such schemata are more clearly socially  
+patterned than are memory traces. Finally, we have culture as symbol systems  
+external to the person, including the content of talk, elements of the constructed  
+environment, media messages, and meanings embedded in observable activity  
+patterns.  
+Culture inheres not in the information, nor in the schemata, nor in the sym- 
+bolic universe, but in the interactions among them. As we have seen, schemata  
+structure our use of information. But people acquire many schemata throughout  
+their lives, and some of these are inconsistent both in content and in implica- 
+tions for behavior. How is it that people invoke one among the many schemata  
+available to them in a given situation?  
+To simplify greatly in order to focus upon the aspect of the process most  
+relevant to the sociology of culture, selection is guided by cultural cues avail- 
+able in the environment. Although a few schemata may be chronically avail- 
+able, more often they are primed or activated by an external stimulus or frame  
+(Sedikides & Skowronski 1991, Barsalou 1992, Gamson 1992:6-8, Schud- 
+son 1989). Framing effects in social surveys-e.g. the finding that whites are  
+more likely to accept negative stereotypes of African-Americans if the question  
+is preceded by a neutral reference to affirmative action (Sniderman & Piazza  
+1993:102-104)-are familiar examples. But schemata can also be activated  
+through conversation, media use, or observation of the physical environment.  
+Understanding the interaction between two distributions-of the schemata that  
+constitute people's cultural toolkits, and of external cultural primers that act  
+as frames to evoke (and, in evoking, exerting selection pressures upon) these  
+schemata-is a central challenge for sociologists of culture.  
+APPLICATIONS  
+This section reviews work on cognitive aspects of the sociology of culture  
+in light of the perspective developed here. The topics are identity, collective  
+memory, social classification, logics of action, and framing.  
+Identity  
+Identity has become one of the most active research fields in the sociology of  
+culture. It is useful to distinguish between two quite different kinds of collective  
+identity: the identities of collectives, on the one hand, and collective aspects of  
+the identities of individuals on the other.  
+IDENTITIES OF COLLECTIVES At the supra-individual level, collective iden- 
+tity is a shared representation of a collectivity. Research at this level portrays  
+collective identities as highly constructed (Anderson 1983), through explicit 
+messages and more subtle elements such as anthems and flags (Cerulo 1994 ).  
+Collective identities are chronically contested, as groups vie to produce social  
+representations capable of evoking schemata favorable to their ideal or material  
+interests (Moscovici 1984, Zerubavel 1994, Friedland & Hecht 1996).  
+Another line of research, active in both psychology and sociology, views  
+identities and selves as collective representations that vary cross-culturally and  
+historically. Markus et al (1996) review research on differences in the cultural  
+construction of identity in East Asian and Western societies. Meyer & J epperson  
+(1996) contend that the modern self (and its variations in different polities) is a  
+constructed identity endowed with agency in relation to the collectivity.  
+COLLECTIVE ELEMENTS IN INDIVIDUAL IDENTITIES Much research on collec- 
+tive identity is actually about the more complex issue of the ways in which social  
+identities enter into the constitution of individual selves. Social identity theory  
+views individual identities as comprising prioritized identity-sets based on par- 
+ticularistic and role-based group affiliations (Stryker 1986). Self-categorization  
+theories also portray collective identities as invoked by conditions that make  
+particular identities especially salient (Tajfel & Turner 1986). In this view,  
+individual identities reflect elaborated group-identity schemata in proportion to  
+strength and recency of activation. Viewing identities as context-dependent in  
+this way is consistent with observations of the volatility with which identities  
+may gain and lose salience during periods of intergroup conflict.  
+Collective Memory  
+Collective memory is the outcome of processes affecting, respectively, the  
+information to which individuals have access, the schemata by which people  
+understand the past, and the external symbols or messages that prime these  
+schemata. Like collective identities, research on collective memory portrays  
+the phenomenon in both supra-individual and individual terms.  
+Several scholars have studied institutional processes that maintain or suppress  
+information as part of public culture, such as factors determining the reputation  
+and popularity of particular persons or art works (Fine 1996, Griswold 1986,  
+Lang & Lang 1988). Much research, however, focuses upon the schematic level,  
+studying struggles to define the ways in which members of a society interpret  
+widely shared information about their past, either tracking change in the ways  
+in which a person or public figure is understood over time (Schudson 1992,  
+Schwartz 1991) or analyzing conflict over alternative visions of a collective  
+past (Maier 1988, Zerubavel 1994).  
+Little research has focused on the interaction between individual and col- 
+lective memories. An exception is the work of Schuman & Scott (1989), who  
+use survey methods to explore the possibility that the historical events that 
+men and women of different generations remember most vividly structure their  
+understanding of contemporary social issues.  
+Social Classification  
+The study of social classification-the social construction and use of category  
+schemes-has burgeoned in the last decade. Some work has analyzed processes  
+of classification in historical time, describing the emergence of a strongly clas- 
+sified artistic high culture (DiMaggio 1982), or the use of social categorization  
+in the formation and implementation of social policies (Starr 1992). Of particu- 
+lar interest is Mohr's (1994) analysis of"discourse roles," which uses structural  
+equivalence analysis to identify the implicit classification of social problems  
+and client groups embedded in self-descriptions of social-service and poverty- 
+relief organizations in early twentieth-century New York City.  
+Other research has focused upon social differentiation in shorter time spans.  
+Zelizer (1989) describes the process by which women find ways to differenti- 
+ate even money, the universal medium of exchange, in order to imbue it with  
+social meaning. Lamont (1992) analyzes the bases upon which men of differ- 
+ent regional and national origins make social distinctions that reinforce their  
+sense of social honor. Gieryn ( 1997) describes boundary work within scientific  
+communities, examining how scientists respond when the strong classification  
+science/nonscience is threatened.  
+Zerubavel, one of few sociologists to study classification from a cognitive  
+perspective, points out that the drive to partition a continuous world appears  
+to be a human universal, though the nature of the categories constructed may  
+vary significantly among groups (Zerubavel1991, 1997, Douglas 1966). Rosch  
+(1978), whose work has dominated psychological thinking on the topic, pro- 
+poses (with much experimental support) that cognition is most efficient when  
+we chunk many separate features (bits of information) together by thinking  
+with a prototype (complete mental image) of an object. Prototypical constructs  
+emerge at the most efficient level of abstraction: i.e. where an increase in speci- 
+ficity provides the greatest marginal increase in information. Thus we have  
+prototypes for "chair" but not "furniture" or "divan," and for "bird" but not  
+for "animal" or "sparrow." Although the level at which object prototypes form  
+appears to be relatively universal, the specific content of a prototype reflects a  
+mix of typicality and availability in a given location (D' Andrade 1995).  
+Rosch applied her model of prototypes to relatively simple concepts. Self- 
+categorization theory draws on the prototype model (Hogg & McGarty 1990),  
+but it remains to be seen if complex social constructs are represented in such  
+unambiguous terms. If so, application to role analysis may be useful, in light  
+of an intriguing parallel between Rosch's characterization of a prototype as a 
+core of essential features and Nadel's (1957) classic definition of social role as  
+consisting of a core of entailments and a penumbra of optional features.  
+Logics of Action  
+Many authors have used the expression "logics of action" to refer to an inter- 
+dependent set of representations or constraints that influence action in a given  
+domain. Sometimes, of course, the term is used as a synonym for "ideal type"  
+(Orru 1991) or, in rational-actor approaches, to refer to situational constraints  
+that induce parallel behaviors among players with similar resources given par- 
+ticular rules of the game (Block 1990, Offe 1985).  
+A richer, more cultural, sense oflogics has emerged in recent work in political  
+economy, a view that embeds them in the interaction between mental structures  
+instantiated in practical reason (Bourdieu 1990), on the one hand, and institu- 
+tional requirements on the other. Friedland & Alford (1991:248-49) provide  
+the most thorough exposition and definition, describing "institutional logics"  
+as sets "of material practices and symbolic constructions" that constitute an  
+institutional order's "organizing principles" and are "available to organizations  
+and individuals to elaborate." According to Friedland & Alford, these logics  
+are "symbolically grounded, organizationally structured, politically defined and  
+technically and materially constrained."  
+Similar imagery is apparent in Boltanski & Thevenot's notion of modes  
+of justification (1991), institutionally linked discourses embodying specific  
+orientations toward action and evaluation. Empirical development of similar  
+ideas can be found in Fligstein's (1990) work on "conceptions of control" in  
+corporate governance, and in Stark's (1990) analysis of shop floor politics in a  
+Hungarian socialist factory.  
+Such work requires a taxonomy of institutions, each of which entails a dis- 
+tinctive logic. (For Friedland & Alford, the institutions are capitalism, the  
+state, democracy, family, religion, and science, each of which has its own ax- 
+ial principle and linked routines and rituals.) Conflict erupts from the clash  
+of institutional logics, as when a wife views her household labor through a  
+marketplace logic of explicit exchange, whereas her husband imposes a family  
+logic of selfless service upon the situation.  
+The notion of logics is immensely appealing. First, it proposes that external  
+rituals and stimuli interact with internal mental structures to generate routine  
+behavior. Second, it is consistent with the view that culture is fragmented  
+among potentially inconsistent elements, without surrendering the notion of  
+limited coherence, which thematization of clusters of rituals and schemata  
+around institutions provides. Third, it provides a vocabulary for discussing  
+cultural conflict as confrontation between inconsistent logics of action. 
+At the same time, the work remains frankly exploratory and calls attention  
+to gaps in our current understanding of culture and cognition, which neither  
+psychology nor sociology can address. These are the topics of the next section.  
+KEY PROBLEMS IN THE STUDY  
+OF CULTURE AND COGNITION  
+The notion of institutional logics can be reinterpreted as an effort to thematize  
+schemata and link them to social structure. In order to exploit the insights this  
+perspective offers, students of culture need three things that we now lack: an  
+understanding of how schemata aggregate to more complex cultural structures,  
+or "logics"; an understanding of cultural change, which, in turn, requires a clear  
+understanding of the way in which actors switch among institutional logics; and  
+a theory of analogy, which is necessary if we are to understand processes of  
+schematic generalization that thematization and switching both require.  
+Models of Schematic Aggregation  
+Perhaps the highest priority for students of culture and cognition is to develop  
+models of thematization, by which I mean the ways in which diverse schemata  
+aggregate to more general and sociologically interesting constructs like thought  
+styles, stories, logics, paradigms, and ideologies. There are several candidates  
+for such models.  
+ATOMISTIC DECOUPLING The null hypothesis is that everyday thought is pop- 
+ulated by randomly invoked, loosely coupled schemata with little or no higher- 
+level architecture. If so, thematization is simply imposed post hoc by cultural  
+specialists or embedded in the environment and in everyday routines. Although  
+this view is inconsistent with most work in the sociology of culture, and would  
+seem ill-equipped to explain either experimental research on schemata or macro- 
+cultural change, it cannot now be disconfirmed absolutely.  
+NESTED HIERARCHY At the opposite extreme is the view of cross-cultural  
+psychologists that culture comprises a hierarchy of nested schemata, arrayed  
+from abstract to concrete, with the latter entailed by the former. For exam- 
+ple, Markus & Kitayama (1994) view a wide range of cognitive differences  
+between Japanese and Americans as flowing from fundamental differences in  
+self-schemata. Although they provide compelling evidence of significant in- 
+tergroup differences, one need not assume as much coherence as they do.  
+DOMAIN-SPECIFICITY There is considerable evidence that information and  
+schemata pertaining to different life domains is stored in distinct areas of mem- 
+ory, with schematic integration occurring within specific domains (Hirschfeld 
+& Gelman 1994). In this view, clusters of schemata are coherent only within  
+limited boundaries; taken together, the domains are "more like the collected  
+denizens of a tide pool than a single octopus" (D' Andrade 1995:249).  
+This view has considerable experimental support, though there is little con- 
+sensus as to the size or character of the domains. It is tempting to equate  
+"domain" with the institutional realms identified by Friedland & Alford (1991)  
+or Boltanski & Thevenot (1990), and to posit that culturally specific "logics  
+of action" are thus embedded in schematic organization, but there is at present  
+little if any empirical warrant for doing so.  
+IDENTITY CENTRALITY Some evidence suggests that affectively hot schemata  
+are more salient and have more extensive entailments than do emotionally neu- 
+tral structures. Work on identity (Wiley & Alexander 1987, Hogg & McGarty  
+1990) suggests the possibility that "the self' may be an emotionally supersat- 
+urated cluster of schemata tending toward consistency and stability over time.  
+Schemata that are embedded in the self-schemata, then, are more closely artic- 
+ulated with other schemata than those that are not incorporated into the self.  
+ROLE CENTRALITY By analogy, one can view roles as situationally evoked,  
+emotionally activated, partial identities that provide integrated chunks of schem- 
+atic organization and permit compartmentalization of different cultural contents.  
+This perspective is appealing because it identifies a mechanism (i.e. role ac- 
+tivation) connecting schematic triggering to contextual variation, and because  
+it is consistent with evidence for domain-specificity of schematic organization.  
+Moreover, because roles are embedded in distinctive role relations, this view  
+points toward an integration of cultural and network analysis within a single  
+framework (McCall 1987).  
+Which of these models of schematic thematization best describes the pro- 
+cesses by which people integrate schemata is at present anybody's guess. Sig- 
+nificant matters-the extent to which ideology enters into conscious experience,  
+the patterning of cultural styles or orientations, and the stability of cognition  
+across context-ride on its resolution.  
+Cultural Change  
+A second priority for sociologists of culture is to create theories of cultural  
+change that integrate ideas from research on culture and cognition with macroso- 
+ciological perspectives. At least four different change processes are crucial to  
+understand.  
+THEORY OF ENVIRONMENTAL TRIGGERING I have argued that culture enters  
+into everyday life through the interaction of environmental cues and mental  
+structures. I have further suggested, by combining logic-of-action theories in 
+sociology and domain-specificity theories in psychology, that cultural under- 
+standings may be fragmented by domain, so that when persons or groups switch  
+from one domain to another, their perspectives, attitudes, preferences, and dis- 
+positions may change radically. It follows that large-scale cultural changes may  
+be caused by large-scale, more-or-less simultaneous frame switches by many  
+interdependent actors.  
+At the micro level, we need a better understanding of how and why peo- 
+ple switch among frames, logics, or domains (White 1995; from a rational  
+choice perspective, Lindenberg & Frey 1993). The paradigmatic work on this  
+comes from language, where research on code-switching has documented the  
+circumstances (ordinarily changes in context, conversation partner, or topic)  
+that trigger change in language or dialect (Gumperz 1982). At the macro level,  
+the challenge is to create models that link environmental change to patterns of  
+switching (White 1995).  
+THEORY OF SCHEMA ACQUISITION, DIFFUSION, AND EXTINCTION Psycholo- 
+gists have cast substantial light on the acquisition of schemata by individuals  
+during development (Nelson & Gruendel 1981, Hirschfeld 1994). Sociolo- 
+gists of culture should turn their attention to factors leading to change in the  
+distribution and level of activation of cultural representations or schemata in  
+the population. Such change may occur if different cohorts acquire particular  
+schemata at varying rates; or if changes in the distribution of environmental  
+cues lead to enhanced activation or deactivation of particular schemata that  
+have already been acquired.  
+Diffusion models of the sort that have been used to study the effects of  
+media exposure on the adoption of new technologies or beliefs may be useful.  
+Diffusion should be most effective where resonance exists between the new  
+cultural element and existing schematic organization (Sperber 1985).  
+Work in the historical sociology of culture provides some guidance.  
+Wuthnow's (1989) macro-theory of ideological change, which points to the im- 
+portance of ecological effects on the life chances of new beliefs, may be usefully  
+transposed to more micro levels. Tilly (1992) has developed and implemented a  
+valuable approach to studying change over time in contentious movement reper- 
+toires. Buchmann & Eisner (1996) present evidence of accelerating change  
+in the public presentation of selves during the second half of the twentieth  
+century.  
+A particular challenge is to understand cognitive aspects of major collective  
+events in which large numbers of persons rapidly adopt orientations that might  
+have appeared culturally alien to the majority of them a short time before. Some  
+religious revivals, the emergence of capitalism after the fall of the Soviet Union,  
+and some spirals of ethnic antagonism are demanding cases of this kind. 
+THEORY OF DELIBERATIVE OVERRIDING It is important to understand not only  
+how culture constrains, but how persons and groups can transcend the biasing  
+effects of culture on thought. Work on this problem by psychologists (noted  
+earlier) must be supplemented by research on the types of social interaction  
+that lead large numbers of people to question and, ultimately, to revise their  
+schematic representations of social phenomena.  
+Analogy and Generalization  
+Related to the study of change, but so important that it warrants a section of its  
+own, is the problem of analogy and generalization. Sociological theories that  
+portray persons as actively incorporating culture into cognitive organization  
+invariably rely on some notion like the habitus, which Bourdieu (1990) refers  
+to as a "system of durable transposable dispositions." The key question for  
+all of these theories is: Under what conditions are dispositions or schemata  
+abstracted and transposed from one domain to another?  
+Almost all cultural change entails the transfer of some body of ideas or  
+images from one content area to another on the basis of similarity judgments.  
+Indeed, any attempt to characterize the culture of a group or a people in abstract  
+terms-i.e., any analytic effort at thematization-takes for granted that actors  
+have the capacity to draw analogies between classes of objects, actors, events,  
+or actions, and thereby to understand them in similar ways.  
+Think of culture as a network of interrelated schemata, with analogies as the  
+"ties" that create paths along which generalization and innovation occur. How  
+are new "ties" created? The literature provides at least three alternatives.  
+FEATURE CORRESPONDENCE In the most straightforward models, two schem- 
+ata or related structures lend themselves to analogy (and thus to generalization  
+across domains) insofar as they share particular features (Lakoff & Johnson  
+1980) that create a correspondence between them. Thus Swinburne's line,  
+"when the hounds of spring are on winter's traces," is meaningful because  
+of the correspondence between temporal and spatial pursuit and between the  
+destructive effects of hounds on hares and of spring on winter. Two problems  
+with this view are that the correspondence itself is constructed rather than innate;  
+and that analogical power would not seem to vary with the extent of overlap  
+between tenor and vehicle.  
+STRUCTURE-MAPPING This view takes as its starting point the existence of  
+some form of content-related domain-specificity. Analogies connect not sim- 
+ply schemata but whole domains (Tourganeau & Sternberg 1982), deriving their  
+power from the network of entailed comparisons they trigger. The most pow- 
+erful analogies connect domains that are structurally homologous. Put another  
+way, generalizability across domains is a function not of the extent to which 
+they share particular features in common, but of the extent to which relations  
+among features are structurally similar (Gentner 1983).  
+EMOTIONAL RESONANCE Some research suggests that affectively hot schemata  
+are more likely to be generalized across domains than affectively neutral sche- 
+mata. For example, analogies are likely to be drawn between situations that  
+elicit strong emotional reactions of a similar kind (Abelson 1981 :725).  
+POLYSEMY AND SEMANTIC CONTAGION A final possibility is that polysemous  
+expressions-those with distinct meanings that resonate with multiple schemata  
+or domains-facilitate analogical transfer. Bakhtin's work (1986) on textual  
+multivocality is suggestive in this regard, as is White's (1992) work on stories  
+and rhetorics. Ross (1992) portrays meaning as emerging from the relations  
+of words to one another in speech and to activities in real time. Because  
+these constantly change, meanings are rarely fixed, but instead adapt, diverge,  
+and spread across domains through semantic contagion. This perspective is  
+particularly attractive because it acknowledges endemic change in language and  
+other symbol systems and because it embeds generalization in social interaction.  
+SYMBOLS, NETWORKS, AND COGNITION  
+Cognitive aspects of culture are only one-and not necessarily the largest-part  
+of the sociology of culture's domain. But it is a part that we cannot avoid if we  
+are interested in how culture enters into people's lives, for any explanation of  
+culture's impact on practice rests on assumptions about the role of culture in  
+cognition. I have argued that we are better off if we make such models explicit  
+than if we smuggle them in through the back door and that work in cognitive  
+psychology and social cognition, although animated by different questions,  
+offers tools that we sociologists can use to pursue our own agendas.  
+Ultimately, the challenge is to integrate the micro perspectives on culture de- 
+scribed here with analyses of cultural change in larger collectivities over longer  
+stretches of time. I have argued for a perspective that privileges schemata andre- 
+lated constructs as units of analysis, and attends to mechanisms by which phys- 
+ical, social, and cultural environments differentially activate these schemata.  
+This argument has begged the question of which aspects of the environment  
+are most worthy of study. Without denying the unquestionable importance of  
+research on how media and activity structures interact with subjective cultural  
+representations, I shall conclude by calling brief attention to new research on the  
+relationship of cognitive and symbolic phenomena to social structures portrayed  
+as social networks.  
+Some researchers have focused on cognitive representations of social struc- 
+ture. [Fiske & Linville (1980) claim that schema theory is especially relevant 
+that social structures exist simultaneously through mental representations and  
+in concrete social relations was central to Nadel's (1957) role theory. Both  
+theorists (Emirbayer & Goodwin 1994, Orr 1995, White 1992) and researchers  
+(Krackhardt 1987) are exploring the implications of this view.  
+Networks are crucial environments for the activation of schemata, logics, and  
+frames. In a study of the Paris Commune, Gould (1995) argues that political  
+protest networks did not create new collective identities, but rather activated  
+identities that communards already possessed. Bernstein (1975) demonstrates  
+the impact of network structures on individuals' tendency to employ cognitive  
+abstraction. Erickson (1996), studying security guards, finds a correlation be- 
+tween the complexity of social networks and the diversity of conversational  
+interests. Vaughan (1986) describes how people questioning marriage alter  
+customary patterns of social relations in order to create new, independent iden- 
+tities as prologue to separation. Such studies point to a new, more complex  
+understanding of the relationship between culture and social structure built  
+upon careful integration of micro and macro, and of cognitive and material,  
+perspectives.  
+ACKNOWLEDGMENTS  
+Thanks are due to the students in my Princeton graduate seminar on culture  
+and cognition for insightful discussions of much of the work reviewed here;  
+to my psychology colleagues Marcia Johnson, Dale Miller, and Deborah Pren- 
+tice, who provided valuable guidance in my efforts to come to speedy terms  
+with culture-relevant literature in cognitive and social psychology; and to Bob  
+Wuthnow, Dale Miller, Eviatar Zerubavel, Roger Friedland, and John Mohr for  
+opportunities to present these thoughts at meetings and workshops at Princeton,  
+Rutgers, Santa Barbara, and the ASA meetings. For valuable readings of ear- 
+lier drafts, I am indebted to Roger Friedland, Michele Lamont, Diane Mackie,  
+Calvin Morrill, Abigail Smith, Ann Swidler, and Eviatar Zerubavel.  
+Visit the Annual Reviews home page at  
+http://www.annurev.org.  
+Literature Cited  
+Abelson RP. 1981. Psychological status of the  
+script concept. Am. Psycho/. 36:715-29  
+Anderson B. 1983. Imagined Communities:  
+The Origin and Spread fi{Nationalism. Lon- 
+don: Verso  
+Bakhtin MM. 1986. Speech genres. In Speech  
+Genres and Other Late Essays, ed. C Emer- 
+son, M Holquist, pp. 61-102. Austin: Univ.  
+Texas Press  
+Barsalou LW. 1992. Frames, concepts, and con- 
+ceptual fields. See Lehrer & Kittay 1992, pp.  
+21-74 
+Berger J, Rosenholtz SJ, Zelditch M. 1980. Sta- 
+tus organizing processes. Annu. Rev. SocioL  
+6:479-508  
+Berger PL, Luckman T. 1967. The Social Con- 
+struction of Reality. Garden City, NY: Dou- 
+bleday Anchor  
+Bernstein B. 1975. Social class, language and  
+socialization. In Class, Codes and Con- 
+trol: Theoretical Studies Towards a Sociol- 
+ogy of Language, pp. 170-189. New York:  
+Schocken Books. 2nd ed.  
+Block F. 1990. Political choice and the multi- 
+ple 'logics' of capital. In Structures of Capi- 
+tal: The Social Organization of the Economy,  
+ed. S Zukin, P DiMaggio, pp. 293-310. New  
+York: Cambridge Univ. Press  
+Boltanski L, Thevenot L. 1991. De Ia Justifica- 
+tion: Les Economies de Ia grandeur. Paris:  
+Gallimard  
+Bourdieu P. 1974. Avenier declasse et causalite  
+du probable. Revue Franfaise de sociologie  
+15:3-42  
+Bourdieu P. 1984. Distinction: A Social Cri- 
+tique of the Judgement of Taste. Trans!. R  
+Nice. Cambridge: Harvard Univ. Press  
+Bourdieu P. 1990 [1980]. Structures, habitus,  
+practices. In The Logic of Practice, pp. 52- 
+65. Stanford: Stanford Univ. Press  
+Bruner J. 1990. Acts of Meaning. Cambridge:  
+Harvard Univ. Press  
+Buchmann M, Eisener M. 1996. Images of the  
+self: 1900-1992. Pap. presented at Ann.  
+Meet. Am. Sociol. Assoc., New York  
+Carley KM. 1989. The value of cognitive foun- 
+dations for dynamic social theory. J. Math.  
+Sociol. 14:171-208  
+Carley KM. 1991. A theory of group stability.  
+Am. Sociol. Rev. 56:331-54  
+Cerulo K. 1995. Identity Designs: The Sights  
+and Sounds ofaNation. New Brunswick, NJ:  
+Rutgers Univ. Press  
+Cicourel AV. 1973. Cognitive Sociology. New  
+York: Free Press  
+Collins R. 1981. On the microfoundations of  
+macrosociology.Am. J. Sociol. 86:984-1014  
+D' Andrade R. 1995. The Development of Cog- 
+nitive Anthropology. New York: Cambridge  
+Univ. Press  
+Devine PG. 1989. Stereotypes and prejudice:  
+their automatic and controlled components.  
+J. Pers. Soc. P.rychol. 56:5-18  
+DiMaggio P. 1982. Cultural entrepreneurship in  
+nineteenth-century Boston. Media Cult. Soc.  
+4:33-50, 303-21  
+DiMaggio P, Powell WW. 1991. Introduction. In  
+The New Institutionalism in Organizational  
+Analysis, ed. WW Powell, P DiMaggio, pp.  
+1-38. Chicago: Univ. Chicago Press  
+Dobbin F. 1994. Cultural models of organiza- 
+tion: the social construction of rational or- 
+ganizing principles. In The Sociology ofCul- 
+ture: Emerging Theoretical Perspectives, ed.  
+D Crane, pp. 117-42. Cambridge: Blackwell  
+Douglas M. 1986. How Institutions Think. Syra- 
+cuse, NY: Syracuse Univ. Press  
+Douglas M. 1966. Purity and Danger. London:  
+Routledge & Kegan Paul  
+Emirbayer M, Goodwin J. 1994. Network anal- 
+ysis, culture, and the problem of agency. Am.  
+J. Sociol. 99:1411-54  
+Erickson B. 1996. Culture, class and connec- 
+tions. Am. J. Sociol. 102:217-51  
+Fantasia R. 1995. Class consciousness in cul- 
+ture, action, and social organization. Annu.  
+Rev. Sociol. 21:269-87  
+Parr RM, Moscovici S. 1984. Social Represen- 
+tations. Cambridge: Cambridge Univ. Press  
+Fine GA. 1996. Reputational entrepreneurs and  
+the memory of incompetence: melting sup- 
+porters, partisan warriors, and images of  
+President Harding. Am. J. Soc. 101:1159- 
+93  
+Fiske ST, Linville PW. 1980. What does the  
+schema concept buy us? Pers. Soc. P.rychol.  
+Bull. 6:543-57  
+FleckL. 1979 [1935]. Genesis and Development  
+of a Scientific Fact. Chicago: Univ. Chicago  
+Press  
+Fligstein N. 1990. The Transformation of Cor- 
+porate Control. Cambridge, MA: Harvard  
+Univ. Press  
+Freeman L, Romney AK, Freeman SC. 1987.  
+Cognitive structure and informant accuracy.  
+Am. Anthropol. 89:310-25  
+Friedland R, Alford R. 1991. Bringing society  
+back in: symbols, practices, and institutional  
+contradictions. In The New Institutionalism  
+in Organizational Analysis, ed. WW Pow- 
+ell, P DiMaggio, pp. 223-62. Chicago: Univ.  
+Chicago Press  
+Friedland R, Hecht R. 1996. To Rule Jerusalem.  
+New York: Cambridge Univ. Press  
+Gamson WA. 1992. Talking Politics. New York:  
+Cambridge Univ. Press  
+Garfinkel H. 1987 [1967]. Studies of the rou- 
+tine grounds of everyday activities. In Stud- 
+ies in Ethnomethodology, pp. 35-75. Oxford:  
+Polity  
+Gentner, D. 1983. Structure-mapping: a the- 
+oretical framework for analogy. Cogn. Sci.  
+7:155-70  
+Giddens A. 1984. The Constitution of Society:  
+Outline of a Theory of Structuration. Berke- 
+ley: Univ. Calif. Press  
+Gieryn TF. 1998. Cultural Cartography of Sci- 
+ence: Episodes of Boundary Work, Sociolog- 
+ically Rendered. Chicago, IL: Univ. Chicago  
+Press. In press  
+Gilbert DT. 1991. How mental systems believe.  
+Am. Psychol. 46:107-19  
+Gould R. 1995. Insurgent Identities: Class,  
+Commmunity and Protest in Paris from 1848 to the Commune. Chicago: Univ. Chicago  
+Press  
+Gramsci A. 1990. Culture and ideological hege- 
+mony. In Culture and Society: Contemporary  
+Debates, ed. J Alexander, S Seidman. New  
+York: Cambridge Univ. Press  
+Griswold W. 1986. Renaissance Revivals: City  
+Comedy and Revenge Tragedy in the Lon- 
+don Theatre, I576-I980. Chicago: Univ.  
+Chicago Press  
+Griswold W. 1987. The fabrication of meaning:  
+literary interpretation in the United States,  
+Great Britain, and the West Indies. Am. J.  
+Sociol. 92:1077-117  
+Gumperz JJ. 1982. Discourse Strategies. Cam- 
+bridge: Cambridge Univ. Press  
+Hacking I. 1995. Rewriting the Soul: Multi- 
+ple Personality and the Sciences of Memory.  
+Princeton, NJ: Princeton Univ. Press  
+Haraway D. 1991. The past is the contested  
+zone. In Simians, Cyborgs, and Women: The  
+Reinvention of Nature, pp. 21-42. New York:  
+Routledge  
+HirschfeldLA.l994. The child's representation  
+of human groups. Psycho/. Learning & Mo- 
+tivation 31:133-85  
+Hirschfeld, LA, Gelman, SA. 1994. Toward a  
+topography of mind: an introduction to do- 
+main specificity. In Mapping the Mind, ed.  
+LA Hirschfeld, SA Gelman, pp. 3-35. New  
+York: Cambridge Univ. Press  
+HofstedeG.l980. Culture's Consequences: In- 
+ternational Differences in Work-Related Val- 
+ues. Beverly Hills: Sage  
+Hogg MA, McGarty C. 1990. Self- 
+categorization and social identity. In  
+Social Identity Theory: Constructive and  
+Critical Advances, ed. D Abrams, MA Hogg,  
+pp. 10-27. New York: Springer-Verlag  
+Howard JA. 1994. A social cognitive conception  
+of social structure. Soc. Psycho/. Q. 57:210- 
+27  
+Jepperson R, Swidler A. 1994. What proper- 
+ties of culture should we measure? Poetics  
+22:359-71  
+Johnson MK, Hastroudi S, Lindsay, DS. 1993.  
+Source monitoring. Psycho/. Bull. 114:3-28  
+Kahnemann D, Slovic P, Tversky A. 1982. Judg- 
+ment Under Uncertainty: Heuristics and Bi- 
+ases. New York: Cambridge Univ. Press  
+Kluegel J, SmithER. 1986. Beliefs about In- 
+equality: Americans Views of What Is and  
+What Ought To Be. New York: DeGruyter  
+Krackhardt D. 1987. Cognitive social struc- 
+tures. Soc. Networks 9:109-34  
+LakoffG, Johnson M. 1980. Metaphors We Live  
+By. Chicago: Univ. Chicago Press  
+Lamont M. 1992. Money, Morals, and Man- 
+ners: The Culture of the French and Ameri- 
+can Upper-Middle Class. Chicago, IL: Univ.  
+Chicago Press  
+CULTURE AND COGNITION 285  
+Lang GE, Lang K. 1988. Recognition and  
+renown: the survival of artistic reputation.  
+Am. J. Sociol. 94:79-109  
+Lehrer A, Kittay EF, eds. 1992. Frames, Fields  
+and Contrasts: New Essays in Semantic  
+and Lexical Organization. Hillsdale, NJ:  
+Lawrence Erlbaum  
+Liebes T, Katz E. 1990. The Export of Mean- 
+ing: Cross-CulturalReadingsofDallas. New  
+York: Oxford Univ. Press  
+Lindenberg S, Frey BS. 1993. Alternatives,  
+frames, and relative prices: a broader view of  
+rational choice theory. Acta Sociol. 36:191- 
+205  
+Loftus EF, Donders K, Hoffman HG, Schooler  
+JW. 1989. Creating new memories that are  
+quickly accessed and confidently held. Mem- 
+ory Cognition 17:607-16  
+Maier CS. 1988. The Unmasterable Past: His- 
+tory, Holocaust, and German National Iden- 
+tity. Cambridge: Harvard Univ. Press  
+Markus HR, Kitayama S. 1991. Culture and the  
+self: implications for cognition, emotion and  
+motivation. Psycho/. Rev. 98:224-53  
+Markus HR. Kitayama S. 1994. The cultural  
+construction of self and emotion: implica- 
+tions for social behavior. In Emotion and Cul- 
+ture: Empirical Studies of Mutua/Influence,  
+ed. S Kitayama, HR Markus, pp. 89-130.  
+Washington, DC: Am. Psycho!. Assoc.  
+Markus HR, Kitayama, S, Heiman, R. 1996.  
+Culture and 'basic' psychological principles.  
+In Social Psychology: Handbook of Basic  
+Principles, ed. ET. Higgins, AW Kruglanski.  
+New York: Guilford  
+Martin J. 1992. Cultures in Organizations:  
+Three Perspectives. New York: Oxford Univ.  
+Press  
+McCall GJ. 1987. The structure, content, and  
+dynamics of self: continuities in the study of  
+role-identities. See Yardley & Honess 1987,  
+pp. 133-45  
+Merton RK. 1957. Social Theory and Social  
+Structure. New York: Free Press  
+Meyer JW. 1986. Myths of socialization and of  
+personality. In Reconstructing Individualism,  
+ed. THeiler, S Morton, D Wellberry, pp. 212- 
+25. Stanford, CA: Stanford Univ. Press  
+Meyer JW, Jepperson RL. 1996. The actor and  
+the other: cultural rationalization and the on- 
+going evolution of modern agency. Ms., Stan- 
+ford Univ. Dept. Sociol.  
+Meyer JW, Rowan B. 1977. Institutionalized or- 
+ganizations: formal structure as myth and  
+ceremony. Am. J. Sociol. 83:340-63  
+Milburn MA. 1987. Ideological self-schemata  
+and schematically induced attitude consis- 
+tency. J. Exp. Social Psycho/. 23:383-98  
+Miller DT, Prentice DA. 1994. Collective errors  
+and errors about the collective. Person. Soc.  
+Psycho/. Bull. 20:541-50 
+Miller DT, Prentice DA. 1996. The construction  
+of social norms and standards. Handbook o{  
+Social Psychology, ed. XX, pp. 799-829. XX:  
+XX  
+Mohr JW. 1994. Soldiers, mothers, tramps and  
+others: discourse roles in the 1907 Charity  
+Directory. Poetics 22:327-58  
+Moscovici S. 1984. The phenomenon of social  
+representations. In Social Representations,  
+ed. RM Parr, S Moscovici, pp. 3-69. New  
+York: Cambridge Univ. Press  
+Nadel SF. 1957. A Theory o.l Social Structure.  
+London: Cohen & West  
+Neisser U. 1981. John Dean's memory: A case  
+study. Cognition 9:1-22  
+Nelson K, Gruendel J. 1981. Generalized event  
+representations: basic building blocks of  
+cognitive development. In Advances in De- 
+velopmental Psychology, ed. ME Lamb, AL  
+Brown, pp. 131-58. Hillsdale, NJ: Lawrence  
+Erlbaum  
+Noelle-Neumann E. 1993 [1980]. The Spiral of  
+Silence: Public Opinion-Our Social Skin.  
+Chicago: Univ. Chicago Press  
+Offe C. 1985. Disorganized Capitalism. Cam- 
+bridge, MA: MIT Press  
+Orr SW. 1995. Language, values and social net- 
+works: on meaning and the micro-macro link  
+in structural sociology. Ms., Center for the  
+Social Sciences, Columbia Univ.  
+Orru M. 1991. The institutional logic of small- 
+firm economies in Italy and Taiwan. Stud.  
+Compar. Int. Dev. 26:3-28  
+Resnick LB, Levine JM, Teasley SD. 1991.  
+Perspectives on Socially Shared Cognition.  
+Washington, DC: Am. Psycho!. Assoc.  
+RogoffB, Chavajay P. 1995. What's become of  
+research on the cultural basis of cognitive de- 
+velopment? Am. Psycho!. 50:859-77  
+Rosch E. 1978. Principles of categorization. In  
+Cognition and Categorization, ed. E Rosch,  
+B Lloyd, pp. 27-48. Hillsdale, NJ: Erlbaum  
+Ross 1. 1992. Semantic contagion. See Lehrer  
+& Kittay 1992, pp. 143-69  
+Salomon G, ed. 1993. Distributed Cognition:  
+Psychological and Educational Considera- 
+tions. New York: Cambridge Univ. Press  
+Schneider DJ. 1991. Social cognition. Annu.  
+Rev. Psycho{. 42:527-61  
+Schudson M. 1989. How culture works: per- 
+spectives from media studies on the efficacy  
+of symbols. Theory Soc. 18:153-80  
+Schudson M. 1992. Watergate in American  
+Memory: How We Remember, Forget, and  
+Reconstruct the Past. New York: Basic  
+Schuman H, Scott J. 1989. Generations and col- 
+lective memories. Am. Sociol. Rev. 54:359- 
+81  
+Schwartz B. 1981. Vertical Classification: A  
+Study in Structuralism and the Sociology o{  
+Knowledge. Chicago: Univ. Chicago Press  
+Schwartz B. 1991. Social change and collec- 
+tive memory: the democratization of George  
+Washington. Am. Sociol. Rev. 56:221-36  
+Sedikides C, Skowronski 11. 1991. The law of  
+cognitive structure activation. Psycho!. In- 
+quiry 2:169-84  
+Sewell WH Jr. 1992. A theory of structure: dual- 
+ity, agency, and transformation. Am. J. Social.  
+98:1-29  
+Shively J. 1992. "Cowboys and Indians": per- 
+ceptions of western films among American  
+Indians and Anglos. Am. Social. Rev. 57:725- 
+34  
+Shweder RA. 1982. Fact and artifact in trait per- 
+ception: the systematic distortion hypothesis.  
+Pmgress in Exp. Personal. Res. 2:65-100  
+Shweder RA, Bourne EJ. 1991. Does the con- 
+cept of the person vary cross-culturally? In  
+Thinking Thmugh Cultures: Explorations in  
+Cultural Psychology, ed. R. Shweder, pp.  
+113-56. Cambridge: Harvard Univ. Press  
+Sniderman PM, Piazza T. 1993. The Scar o.l  
+Race. Cambridge, MA: Harvard Univ. Press  
+Snow DA, Benford, RD. 1992. Master frames  
+and cycles of protest. In Frontiers in So- 
+cial Movement Theory, ed. AD Morris, CM  
+Mueller, pp. 133-55. New Haven, CT: Yale  
+Univ. Press  
+Sorokin PA. 1957 [1927]. Social and Cultural  
+Mobility. New York: Free Press  
+Sperber D. 1985. Anthropology and psychol- 
+ogy: towards an epidemiology of representa- 
+tions. Man 20:73-89  
+Stark D. 1990. La valeur du travail et sa  
+retribution en Hongrie. Actes de Ia Recherche  
+en Sciences Sociales 85:3-19  
+Starr P. 1992. Social categories and claims in  
+the liberal state. Soc. Res. 59:263-95  
+Stryker S. 1987. Identity theory: developments  
+and extensions. See Yardly & Honess 1987,  
+pp. 89-104  
+Swidler A. 1986. Culture in action: symbols  
+and strategies. Am. Social. Rev. 51:273-86  
+Swidler A. 1997. Talk o.fLove: How Americans  
+Use Their Culture. Chicago: Univ. Chicago  
+Press  
+Swidler A, Arditi J. 1994. The new sociology  
+of knowledge. Annu. Rev. Social. 20:305- 
+29  
+Tajfel H. 1981. Human Groups and Social Cat- 
+egories: Studies in Social Psychology. New  
+York: Cambridge Univ. Press  
+Tajfel H, Turner JC. 1986. The social identity  
+theory of intergroup behavior. In Psychology  
+of"/ntergroup Relations, ed. S Worchel, WG  
+Austin, pp. 7-24. Chicago: Nelson-Hall. 2nd  
+ed.  
+Tilly C. 1992. How to detect, describe, and ex- 
+plain repertoires o.{ contention. Working Pa- 
+per No. 150. Cent. Stud. Soc. Change. New  
+Sch. for Soc. Res. Tourangeau R, Sternberg RJ. 1982. Understand- 
+ing and appreciating metaphors. Cognition  
+11:203-44  
+Vaughan D. 1986. Uncoupling: Turning Points  
+in Intimate Relationships. New York: Oxford  
+Univ. Press  
+Von Hippe! E, Jonides J, Hilton JL, Narayan S.  
+1993. The inhibitory effect of schematic pro- 
+cessing on perceptual encoding. J. Personal.  
+Soc. Psych. 64:921-35  
+Warner WL. 1959. The Living and the Dead:  
+A Study of the Symbolic Life ol Americans.  
+New Haven: Yale Univ. Press  
+WhiteHC.I992.1dentityandControl: A Struc- 
+tural Theory of Social Action. Princeton, NJ:  
+Princeton Univ. Press  
+White HC. 1995. Network switchings and  
+Bayesian forks: reconstructing the social and  
+behavioral sciences. Soc. Res. 62:1-28  
+Wiley MG, Alexander, CN. 1987. From situ- 
+ated activity to self attribution: the impact  
+of social structural schemata. See Yardley &  
+Honess 1987, pp. 105-17  
+Willis P. 1977. Learning to Labor. New York:  
+Columbia Univ. Press  
+Wrong DH. 1961. The oversocialized con- 
+CULTURE AND COGNITION 287  
+ception of man. Am. Sociol. Rev. 26:184- 
+93  
+Wuthnow R. 1987. Meaning and Moral Order:  
+Explorations in Cultural Analysis. Berkeley:  
+Univ. Calif. Press  
+Wuthnow R. 1989. Communities £!/"Discourse:  
+Ideology and Social Structure in the Refor- 
+mation, the Enlightenment and European So- 
+cialism. Cambridge: Harvard Univ. Press  
+Yardley K, Honess T, eds. 1987. Selfand Iden- 
+tity: Psychosocial Perspectives. New York:  
+John Wiley  
+ZelizerV. 1989. The social meaning of money:  
+'special monies.' Am. J. Sociol. 95:342-77  
+Zerubavel E. 1991. The Fine Line. New York:  
+Free Press  
+Zerubavel E. 1992. Terra Cognita: The Mental  
+Discovery o.lAmerica. New Brunswick, NJ:  
+Rutgers Univ. Press  
+Zerubavel E. 1997. Social Mindscapes: An In- 
+vitation to Cognitive Sociology. Cambridge:  
+Harvard Univ. Press  
+Zerubavel Y. 1994. Recovered Roots: Collec- 
+tive Memory and the Making o.llsraeli Na- 
+tional Tradition. Chicago: Univ. Chicago  
+Press 
