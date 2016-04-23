@@ -1,0 +1,177 @@
+2004Moody_ASR692_The_Structure_of_a_Social_Science_Collaboration_Network_Disciplinary_Cohesion_from_1963_to_1999_213-238-Moody2004p2244 Highlights
+
+Page 1, 0%: 
+The Structure of a Social Science  
+Collaboration Network:  
+Disciplinary Cohesion from 1963 to 1999 
+Note: #
+
+Page 1, 0.1%: 
+James Moody
+Note: %
+
+Page 1, 0.1%: 
+Has sociology become more socially integrated over the last 30 years? Recent work in  
+the sociology of knowledge demonstrates a direct linkage between social interaction  
+patterns and the structure of ideas, suggesting that scientific collaboration networks  
+affect scientific practice. I test three competing models for sociological collaboration  
+networks and find that a structurally cohesive core that has been growing steadily since  
+the early 1960s characterizes the discipline's coauthorship network. The results show  
+that participation in the sociology collaboration network depends on research specialty  
+and that quantitative work is more likely to be coauthored than non-quantitative work.  
+However, structural embeddedness within the network core given collaboration is largely  
+unrelated to specialty area. This pattern is consistent with a loosely overlapping  
+specialty structure that has potentially integrative implications for theoretical  
+development in sociology. 
+Note: %%
+
+Page 1, 2.5%: 
+This work is  
+supported in part by NSF ITR/SOC-0080860 and  
+the Ohio State Initiative in Population Research. The  
+author thanks jimi adams and Sara Bradley for help  
+with data collection and manuscript preparation; and  
+Mark Handcock, Mark Newman, and Paul von Hipple  
+for help with data or analysis. The author thanks the  
+following people for reading prior versions of the  
+paper and providing helpful comments: Art Alderson,  
+Susanne Bunn, Ben Cornwell, Bill Form, David  
+Jacobs, Lisa Keister, Dan Lichter, Dan McFarland,  
+Jason Owen-Smith, Woody Powell, and the partici-  
+pants of the Stanford University SCANCOR semi-  
+nar and the University of Chicago Business School  
+Organizations and Markets Workshop. The author  
+thanks the ASR reviewers and editors (Camic and  
+Wilson) for being extremely helpful; and reviewer  
+John A. Stewart, in particular, for providing 
+Note: @
+
+Page 3, 8.7%: 
+SOCIAL AND THEORETICAL  
+INTEGRATION
+Note: #
+
+Page 3, 8.7%: 
+NETWORK STRUCTURES AND IDEA SPACES  
+Note: ##
+
+Page 3, 11.1%: 
+THEORY AND PRACTICE IN SOCIAL SCIENCE
+Note: ##
+
+Page 3, 11.1%: 
+THEORETICAL FRAGMENTATION
+Note: ###
+
+Page 4, 14.3%: 
+STAR PRODUCTION
+Note: ###
+
+Page 4, 16.9%: 
+PERMEABLE THEORETICAL BOUNDARIES AND  
+GENERIC METHODS
+Note: ###
+
+Page 5, 21.5%: 
+SCIENTIFIC COLLABORATION TRENDS
+Note: #
+
+Page 6, 23.2%: 
+Figure 1. Coauthorship Trends in Sociology
+Note: %
+
+Page 6, 23.8%: 
+METHODS
+Note: #
+
+Page 6, 24.3%: 
+SAMPLE AND SOURCE
+Note: ##
+
+Page 7, 26.9%: 
+MEASURES
+Note: ##
+
+Page 8, 30.9%: 
+Figure 2. Constructing Collaboration Networks 
+Note: %
+
+Page 9, 33.3%: 
+PUBLICATION TRENDS
+Note: #
+
+Page 9, 34.8%: 
+SPECIALTY AREA AND NETWORK  
+PARTICIPATION 
+Note: #
+
+Page 9, 35.4%: 
+Table 1. Sociology Publication Patterns: Distributions of Publications, Coauthorship and Number of  
+Collaborators
+Note: %
+
+Page 10, 36.8%: 
+Table 2. Growth in Number of Articles and Coauthorship Rates, by Specialty, 1963-1999 
+Note: %
+
+Page 11, 41.9%: 
+Figure 3. Coauthorship and Quantitative Work 1975-1999 by Specialty.
+Note: %
+
+Page 13, 47.1%: 
+Table 3. Logistic Regression of Having Ever Coauthored on Publication Characteristics
+Note: %
+
+Page 14, 53.5%: 
+COLLABORATION NETWORK  
+STRUCTURE 
+Note: #
+
+Page 14, 54.1%: 
+DOES THE NETWORK DEPEND ON STAR  
+COLLABORATORS? 
+Note: ##
+
+Page 15, 55.4%: 
+Figure 4. Scale-Free properties of Coauthorship Networks
+Note: %
+
+Page 16, 57.2%: 
+A SOCIOLOGICAL SMALL WORLD? 
+Note: ##
+
+Page 17, 60.3%: 
+Table 4. Comparison of Observed Coauthorship Structure to Equivalent Random Networks
+Note: %
+
+Page 17, 61.4%: 
+STRUCTURAL COHESION?
+Note: ##
+
+Page 20, 73.5%: 
+Figure 5. Social Science Coauthorship Network Largest Bicomponent (n = 29,462) 
+Note: %
+
+Page 20, 73.7%: 
+SPECIALTY AREA AND STRUCTURAL  
+EMBEDDEDNESS 
+Note: ##
+
+Page 21, 75.1%: 
+Table 5. Ordered Logistic Regression of Network Embeddedness on Network and Publication Characteristics 
+Note: %
+
+Page 22, 81.9%: 
+CONCLUSION AND DISCUSSION:  
+SOCIAL INTEGRATION IN THE  
+SOCIAL SCIENCES 
+Note: #
+
+Page 24, 90%: 
+James Moody
+Note: ###
+
+Page 24, 90.4%: 
+REFERENCES
+Note: #
+
